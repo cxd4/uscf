@@ -1,0 +1,119 @@
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.08.18"]
+[Round "1"]
+[White "Snopko, John"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1130"]
+[BlackElo "1468"]
+[ECO "C24"]
+[Opening "Bishop's Opening"]
+[Variation "Paulsen Defence"]
+[TimeControl "1800"]
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Bb3 a5 5. c3 d5
+{This opening sequence was OK, but I'll stick with 4...d5 from now on.  I've rarely encountered 4.Bb3 outside of blitz and thought this time that 4...a5 would be a sneaky way of eventually forcing White to waste time of his own with a2-a3 or a4.  Once again being guilty of contempt, I overestimated what good this would do me.  The move ...a5 could always be deferred for later if White hasn't already tried preparing against it after first playing ...d5.}
+6.Bg5? Bc5? 7. Nf3 Bg4?
+{Fortunately for me, my opponent didn't see 8.exd5 cxd5? 9.Bxf6 Qxf6? 10.Bxd5 +-.  Besides which, my pinning move here was without effect against Nbd2.  For the most part, 7...Bg4? was just a thoughtless way of connecting my back rank and having this bishop moved out of the way now before ...Nbd7 locks it in.  I would have been better off keeping it closed for future reserve.  7...a4! 8.Bc2 Qb6 was much more aggressive and effective.  Not to mention, 6.Bg5? from earlier had the whole problem of 6...dxe4! provoking the exchange and getting my queen in on the action to begin with.}
+8. Bxf6?! Qxf6 9. Nbd2 Be6 10. O-O O-O 11. Re1 Nd7 12. Qe2 Bd6? 13. a4
+{White corrects the negligence on his end.  Being disappointed at the lack of tempo obtained from the opening variation with 4...a5!?, I had given up all but every future thought of ever playing ...a4 to dislodge the bishop from his offensive post on that diagonal before it became really offensive.  I had forgotten that the real reason not to play ...a4 was that White's queen and bishop both had influence on that square, but after 12.Qe2?!, I missed my chance to then play 12...a4! -=.  My other opportunity was at the stage of my previous comment:  7.Nf3 a4! 10.Bxa4? Bxf2+ 11.Kxf2 Qb6+.}
+Rae8!? 14. d4 Qh6?!
+{Satisfactory for maintaining the exchange.  However, this ...Qh6 would have been more positionally sound played on the previous move:  13...Qh6!.  Having deferred the queen post to now, I underestimated 14...exd4 15.cxd4?! (15.e5? Nxe5 16.Nxe5 dxc3 17.bxc3 Bc8! 18.Ndf3 Re7! -+, with either ...Rfe8 or ...Bxe5 to go next) Bf5! 16.e5?! Qh6 -+.}
+15. Qe3? Qxe3 16. Rxe3 exd4 17. Nxd4 Bf4 18. Nxe6? Rxe6
+{It all goes downhill for White from here.  I've played perfectly ever since he offered the exchange of queens with 15.Qe3?, but 18.Nxe6? is what tipped the game in my favor.  He had probably put too much analysis into what might happen if I countered with 18.Nxe6 Bxe3?, which definitely would have been a losing game for me.}
+19. Re2 Bxd2 20. Rxd2 Nc5!? 21. Bc2 Nxe4 22. Re2?! Rfe8 23. Rae1 Nd6 24. Rxe6
+Rxe6 25. Rxe6? fxe6 26. b3 b5?! 27. Bd3? e5 28. f3 c5? 29. Kf2?? c4 30. bxc4
+bxc4 31. Bc2 d4 32. cxd4 exd4 33. Ke1 d3 34. Bd1 c3 35. Bb3+ Kf8
+{Recording should have stopped before here, but I was being stubborn.  We were both well under 5 minutes remaining, and our endgame moves got too sloppy and unpunished to be worthy of recording anyway.  Finally, he blundered his queen against mine from our promoted pawns in the ensuing chaos, and then he flagged.} 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.08.18"]
+[Round "2"]
+[White "Swedlow, RJ"]
+[Black "Scarberry, Connor"]
+[Result "1/2-1/2"]
+[WhiteElo "1490"]
+[BlackElo "1468"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian, 5...c5 6.dxc5"]
+[TimeControl "1800"]
+1. e4 d6 2. d4 Nf6 3. Nc3 g6
+{The Pirc system is one good example of a way to annoy opening experts.  When playing against modern openings, our favorite replies tend to have fewer alternative choices, but against hypermodern and indifferent openings like this one, it's extremely hard to confirm a solid analysis on the relative decisiveness of any reply (to which Stockfish 9 at a depth of 51 Ply agrees, having analyzed this position for 5 nights straight on my computer so far).  For example, my next move in this game, 4.f4, turned out OK and is a frequent choice for players of all levels and ratings, but in retrospect I feel that keeping this pawn on f3 to guard a King's side assault with g2-g4 may have been superior.  More agnostic would have been 4.Be3, 4.Bf4, or 4.Bg5.  Definitely be ready to castle on the Queen's side, but we don't know whether the King's bishop pawn works most effectively against our opponent yet on f3, f4, or just behind the usual knight move to f3.  After constantly changing its mind back and forth, Stockfish as of a depth of 51 Ply evaluates 4.Bg5 as the ideal continuation.}
+4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5
+{I was surprised to discover how visible this line is amongst players of the top ranks.  If I could play against it again, I'd rather play 6.Bb5+ Bd7 7.e5 +=:  a kind of halfway Anti-Sicilian (the 3.Bb5+ variation against 1.e4 c5 2.Nf3 d6).}
+7. Bb5+!? Bd7 8. Qd3?
+{The fact that 8.Qd3 is disadvantageous is obvious, but I couldn't accept that this unorthodox style from Black was just something I should ignore.  I had analyzed for so long already in the opening moves of the game that I wasn't ready to just throw all that away and cancel what I was ready for, so it is from here that I began taking risks.}
+Nxe4 9. Bxd7+?! Nxd7 10. Qxe4 Bxc3+ 11. Kf2?
+{I must have taken at least half of my remaining clock time at this point deciding between 11.bxc3 and 11.Kf2.  In the end, I chose wrong.  Actually, a few international masters have wound up in this line of play after 8.Qe2? Nxe4 9.Bxd7+?! Nxd7 10.Qxe4 Bxc3+, and 11.bxc3 was always played.  I had no respect for this opening, so I was in more of a mood to just castle by hand and play 11.Kf2 here, opening my King's rook immediately across the rank.  It looks like 11.bxc3 Qxc3+ 12.Kf2 Qxa1 13.Qxb7 Rd8! 14.cxd6 e6 had better fighting chances than what I wound up with after this.}
+Nxc5 12. Qc4 Bg7 13. c3 Qb6 14. Be3?
+{Again in the mood for taking more risks.  Ready as I was to give up the infamous queen's knight pawn, there was nothing unsafe about 14.Qe2!.  I was too hung up on my eagerness to sacrifice in order to try to get my deserved advantage back from the opening, that I glimpsed over the fact that the discovered check after ...Nb3+ would not have won anything for Black anyway after 14.Qe2 Nb3+? 15.Be3!.}
+Qxb2+ 15. Kg3 Qxc3 16. Qb5+ Kf8 17. Bxc5 Qxc5 18. Qxb7 Qc8?
+{Black begins to fall apart here with this erroneous compromise as my major losing chances start to become winning chances.  One thing that I'd noticed right away during our game was that 18...Bxa1 may have looked like a bad move at first sight, but it actually forced my queen to give him extra counterplay against it after 19.Qxa8+ Kg8, with my position no better after we both claimed a rook.}
+19. Rab1 e5?
+{I'm really not sure what his reason behind this move was.  On one hand, he may have been anxious that I was eventually going to use a back-rank checkmate on him with a rook to keep severe counterplay on him, or maybe by playing ...e5 here he was hoping I would open his bishop up for putting me in check and/or provoking a simplification of the board in removing both our bishops towards a winnable endgame for him.  Both of these plans seem rather overestimated.}
+20. fxe5!? dxe5?! 21. Rhc1 Qxb7 22. Rxb7 e4 23. Rcc7 exf3 24. Rxf7+ Ke8 25.
+Rxg7 Rf8? 26. gxf3 h5 27. Rge7+? Kd8 28. Rbd7+ Kc8 29. Rxa7 Rxa7 30. Rxa7
+Kb8 31. Rg7?!
+{Ever since my speculative endgame preference of 27.Rge7+, Black has accurately handled my inaccurate deviation and further still after this one, 31.Rg7?!.  It of course should have been 31.Ra6.  We were both running so extremely low on the clock that not obligating myself to write down moves at this point may have made the difference between drawing and winning.}
+Rf6 32. h4 Ra6? 33. Kf4 Rxa2? 34. Rxg6
+{This should have been a won endgame for me, but it wasn't a straightforward enough win for an endgame player of my relative inexperience (at least so far as the Lucena rook and pawn endgames go) to manage within the small time window available for us both.  We were both done recording our moves by this point.  I ultimately ended up simplifying (in such a way that only my rook pawn and our kings remained) to what turned out to be a choice between stalemating him or an easy draw agreement.} 1/2-1/2
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.08.18"]
+[Round "3"]
+[White "Raghuraj, Shashank"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1367"]
+[BlackElo "1468"]
+[ECO "C44"]
+[Opening "Scotch Gambit"]
+[Variation "London Defence"]
+[TimeControl "1800"]
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+
+{I always thought that giving Black even just minor tempo with this sort of formation was always pointless.  4...Bb4+ isn't quite a bad move, but it's not entirely an achieving one either, despite appearances.  Most players continue either 4...Bc5 or 4...Nf6, but I wasn't interested in analyzing my opponent's opening when I could just play my own and throw him off book.  What's more?  It worked.  He answered 5.Bd2?! instead of 5.c3!}
+5. Bd2 Bxd2+ 6. Qxd2 Nf6 7. O-O Nxe4 8. Re1 d5 9. Bxd5 Qxd5 10. Nc3 Be6
+11. Rxe4 Qd7 12. Rd1 O-O-O 13. Nxd4
+{Well played on both ends of the board.  However, by this point I am more than confident with my fully open game and reserves of counterplay against White's commonplace attempt at punishing my 7...Nxe4 open variation.  One important insight I have missed in this position was that continuing 13...Bg4! would have provoked White into exposing his King on the a7-g1 diagonal after 14.f3 Bf5 15.Nxc6 Qxc6 16.Rd4 Qb6!, and Black has more chances than does White.}
+Nxd4 14. Rxd4 Qxd4
+{Evidently, this surprised him.  At this point, my opponent threw out his hand and said he'd have to resign here.  I asked, 'Why?'  He proceeded to show me what he thought was him taking back and losing his queen due to my linear coordination of major pieces along the file, and then he immediately realized it was an even trade and took back his declaration of resignation.  I could probably have won there by not asking him why he's resigning, but I'd feel less like I earned that victory than as I did having truly won by playing out the rest of this game.}
+15. Qxd4 Rxd4 16. Rxd4 Rd8 17. Rxd8+ Kxd8 18. Kf1 Kd7?
+{Hmm...not sure why it is that I dismissed the more-than-working idea of 18...Bf5 here.}
+19. Ke2 Kd6
+20. Ke3 Bf5 21. Ne4+ Kd5 22. f3 Bxe4 23. fxe4+ Ke5 24. c3 c5 25. Kd3 c4+
+26. Ke3 g5 27. g3??
+{Easily the worst move in the entire game.  Black has handed me an easy pawn opposition endgame won by effortless waiting moves to follow.  27.g4! would have been a fairly difficult draw for me to trick him out of.}
+g4 28. b3 b5 29. b4 a6 30. a3 h5 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.08.18"]
+[Round "4"]
+[White "Adury, Anant"]
+[Black "Swedlow, RJ"]
+[Result "1/2-1/2"]
+[WhiteElo "1648"]
+[BlackElo "1468"]
+[ECO "C77"]
+[Opening "Spanish"]
+[Variation "Anderssen Variation"]
+[TimeControl "1800"]
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. O-O b5 7. Bb3 d6
+8. c3 Bg4?!
+{An unusual continuity in this opening.  Unfamiliar with the 5.d3 variation, I feared the opening up of the game with d3-d4 a little more than I should have and played ...Bg4?! as a means of pressure against that as well as linking both my rooks to pacify the threat of a2-a4.  Had White retaliated with 9.h3! Bh5 10.Bg5, I would have realized that preventing the pin of my knight was of further importance than placing one of my own on White's.  The play of modern grandmasters and the legendary Paul Morphy from this position would continue 8...h6 9.Be3?! Bxe3 10.fxe3 O-O =/+.}
+9. Re1 h6 10. Be3 Bxe3 11. fxe3?! O-O 12. Nbd2 Be6 13. Nf1 Ne7 14. Ng3 Qd7
+15. Bxe6 fxe6?! 16. d4 exd4?! 17. exd4 Ng6 18. e5 Nd5 19. Qc2 Ndf4 20. Ne2 Rf5
+21. Nxf4 Nxf4 22. Nh4 Rf7 23. Ng6 Qe8?! 24. Nxf4 Rxf4 25. Rf1 dxe5? 26. dxe5?
+{White missed the opportunity for counterplay in the endgame here.  26.Rxf4 exf4 27.Qe4! would have been fine, with more than enough pressure to win back the pawn.}
+26. dxe5 Rxf1+ 27. Rxf1 Qh5 28. Qe4 Rd8 29. Qe3 Rd5 30. Qa7? Qxe5 31. Qxa6 Qe3+
+32. Kh1 Qe2 33. Rg1 Rd1?! 34. h3 Rxg1+?
+{A futile bid for pre-endgame winning chances under the pressure of a clock, with both sides nearly flagged for time.  33...Rd2! was a sounder press for victory.}
+35. Kxg1 c5 36. Qc8+ Kh7 37. Qxc5 Qxb2
+38. Qd4 Qxa2 39. Qd3+ Kg8 40. Qd8+ Kf7 41. Qd7+ Kf6 42. Qxb5? Qa1+?
+{With this, the last opportunity to seize winning chances has been discarded for a drawn endgame.  I couldn't have noticed the upcoming 43.Qf1+ = with such a short fuse on both ends of the clock.  Correct move order here was 42...Qa7+ to dislodge the enemy king from his post of defending f1 for interposing with the queen, followed by either 43...Qc7+ or 43...Qa1+ (whichever is the check, based on White's retreat on move 42) to go on and win the pawn on c3, with a drawn endgame but better odds for Black.}
+43. Qf1+ Qxf1+ 44. Kxf1 Ke5 45. Ke2 Ke4 46. Kd2 h5 47. Ke2 h4 48. Kd2 Kd5
+49. Kd3 Kc5 50. Ke4 Kc4 51. Ke5 Kxc3 52. Kxe6 Kd3 53. Kf5 Ke3 54. Kg5 Kf2
+55. Kxh4 Kxg2 56. Kg4 g5 1/2-1/2
