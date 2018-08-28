@@ -11,6 +11,7 @@
 [Opening "Bishop's Opening"]
 [Variation "Paulsen Defence"]
 [TimeControl "1800"]
+[Board "12"]
 1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Bb3 a5 5. c3 d5
 {This opening sequence was OK, but I'll stick with 4...d5 from now on.  I've rarely encountered 4.Bb3 outside of blitz and thought this time that 4...a5 would be a sneaky way of eventually forcing White to waste time of his own with a2-a3 or a4.  Once again being guilty of contempt, I overestimated what good this would do me.  The move ...a5 could always be deferred for later if White hasn't already tried preparing against it after first playing ...d5.}
 6.Bg5? Bc5? 7. Nf3 Bg4?
@@ -39,6 +40,7 @@ bxc4 31. Bc2 d4 32. cxd4 exd4 33. Ke1 d3 34. Bd1 c3 35. Bb3+ Kf8
 [Opening "Pirc"]
 [Variation "Austrian, 5...c5 6.dxc5"]
 [TimeControl "1800"]
+[Board "12"]
 1. e4 d6 2. d4 Nf6 3. Nc3 g6
 {The Pirc system is one good example of a way to annoy opening experts.  When playing against modern openings, our favorite replies tend to have fewer alternative choices, but against hypermodern and indifferent openings like this one, it's extremely hard to confirm a solid analysis on the relative decisiveness of any reply (to which Stockfish 9 at a depth of 51 Ply agrees, having analyzed this position for 5 nights straight on my computer so far).  For example, my next move in this game, 4.f4, turned out OK and is a frequent choice for players of all levels and ratings, but in retrospect I feel that keeping this pawn on f3 to guard a King's side assault with g2-g4 may have been superior.  More agnostic would have been 4.Be3, 4.Bf4, or 4.Bg5.  Definitely be ready to castle on the Queen's side, but we don't know whether the King's bishop pawn works most effectively against our opponent yet on f3, f4, or just behind the usual knight move to f3.  After constantly changing its mind back and forth, Stockfish as of a depth of 51 Ply evaluates 4.Bg5 as the ideal continuation.}
 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5
@@ -73,6 +75,7 @@ Rf6 32. h4 Ra6? 33. Kf4 Rxa2? 34. Rxg6
 [Opening "Scotch Gambit"]
 [Variation "London Defence"]
 [TimeControl "1800"]
+[Board "11"]
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+
 {I always thought that giving Black even just minor tempo with this sort of formation was always pointless.  4...Bb4+ isn't quite a bad move, but it's not entirely an achieving one either, despite appearances.  Most players continue either 4...Bc5 or 4...Nf6, but I wasn't interested in analyzing my opponent's opening when I could just play my own and throw him off book.  What's more?  It worked.  He answered 5.Bd2?! instead of 5.c3!}
 5. Bd2 Bxd2+ 6. Qxd2 Nf6 7. O-O Nxe4 8. Re1 d5 9. Bxd5 Qxd5 10. Nc3 Be6
@@ -101,6 +104,7 @@ g4 28. b3 b5 29. b4 a6 30. a3 h5 0-1
 [Opening "Spanish"]
 [Variation "Anderssen Variation"]
 [TimeControl "1800"]
+[Board "9"]
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. O-O b5 7. Bb3 d6
 8. c3 Bg4?!
 {An unusual continuity in this opening.  Unfamiliar with the 5.d3 variation, I feared the opening up of the game with d3-d4 a little more than I should have and played ...Bg4?! as a means of pressure against that as well as linking both my rooks to pacify the threat of a2-a4.  Had White retaliated with 9.h3! Bh5 10.Bg5, I would have realized that preventing the pin of my knight was of further importance than placing one of my own on White's.  The play of modern grandmasters and the legendary Paul Morphy from this position would continue 8...h6 9.Be3?! Bxe3 10.fxe3 O-O =/+.}
@@ -115,5 +119,7 @@ g4 28. b3 b5 29. b4 a6 30. a3 h5 0-1
 38. Qd4 Qxa2 39. Qd3+ Kg8 40. Qd8+ Kf7 41. Qd7+ Kf6 42. Qxb5? Qa1+?
 {With this, the last opportunity to seize winning chances has been discarded for a drawn endgame.  I couldn't have noticed the upcoming 43.Qf1+ = with such a short fuse on both ends of the clock.  Correct move order here was 42...Qa7+ to dislodge the enemy king from his post of defending f1 for interposing with the queen, followed by either 43...Qc7+ or 43...Qa1+ (whichever is the check, based on White's retreat on move 42) to go on and win the pawn on c3, with a drawn endgame but better odds for Black.}
 43. Qf1+ Qxf1+ 44. Kxf1 Ke5 45. Ke2 Ke4 46. Kd2 h5 47. Ke2 h4 48. Kd2 Kd5
-49. Kd3 Kc5 50. Ke4 Kc4 51. Ke5 Kxc3 52. Kxe6 Kd3 53. Kf5 Ke3 54. Kg5 Kf2
+49. Kd3 Kc5 50. Ke4 Kc4
+{Recording on my end stopped actually at 50.Ke4, which I annotated as a draw but kept playing anyway.  Kids love to offer draws when they're only a pawn down, and I always love to ignore their draw offers.  The rest of the moves here were transcribed from my memory, not written record.}
+51. Ke5 Kxc3 52. Kxe6 Kd3 53. Kf5 Ke3 54. Kg5 Kf2
 55. Kxh4 Kxg2 56. Kg4 g5 1/2-1/2
