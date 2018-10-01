@@ -11,6 +11,7 @@
 [ECO "B01"]
 [Opening "Scandinavian"]
 [Variation "2...Qxd5, Main Line, 6.Bc4"]
+[Board "12"]
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 e6?!
 {An unnecessary block to his own bishop.  One general rule as to why players may prefer the Scandinavian over the French (1.e4 d5 over 1.e4 e6) is keeping the possibility open for involving the queen's bishop, but by playing ...e6 here that flexibility has been defeated.  Without having a center pawn or an active enemy bishop to worry about, I can more effortlessly accumulate support on d5 and try to break through with my center pawn.}
 7. Bd2 Qc7 8. Qe2 Be7 9. Bb3?!
@@ -46,6 +47,7 @@ Ra7 30. Bd3 Nc7 31. Rb6?! Nd5 32. Rg6+ Kf8 33. Bc4 Nxe3?? 34. Rg8+ 1-0
 [ECO "C30"]
 [Opening "KGD"]
 [Variation "Classical, 3.Nf3 d6 4.Nc3 Nf6 5.Bc4"]
+[Board "9"]
 1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4
 {An almost dubious opening continuation.  I was excited to play against the King's Gambit in a recorded game for the very first time and, having played both for and against Black's side of the King's Gambit Declined, have always recognized 4.c3 to be the classical development at this stage.  The move played here, 4.Bc4, seems rather hypocritical and ineffective because my own QB-4 bishop is more dangerous to White (due to his king's side bishop pawn being pushed in the face of exposure) than White's QB-4 bishop is to me.}
 Nf6 5. Nc3 O-O 6. f5? c6
@@ -75,6 +77,7 @@ Bd4
 [ECO "C30"]
 [Opening "King's Gambit"]
 [Variation "2...Nc6"]
+[Board "11"]
 1. e4 e5 2. f4 Nc6?!
 {This method of Black's for declining the King's Gambit is rather submissive and conflicted.  Black's pawn is very rarely in any imminent danger in the King's Gambit after 1.e4 e5 2.f4, as simply capturing Black's pawn on the third move (provided that it doesn't capture White's own pawn beforehand) is in almost all cases refuted with 3...Qh4+.  Now, if Black were to decline the gambit by defending his pawn with another pawn (e.g., 1.e4 e5 2.f4 d6?!), then that would keep the pawn replaceable in the future event of me securing my king's side enough to be able to exchange pawns.  Defending with the knight as done here, however, achieves nothing.  I simply develop on the next move and threaten to actually indeed be able to exchange pawns safely, and even if Black's knight could take back, it can be kicked around with White's other pawns while gaining ground.  The 2...Nc6 answer to the King's Gambit is an indecisive and self-conflicted hybrid attempt at declining the gambit as well as, overtime with compulsion, having to accept it in the end anyway.  At any rate, I was no less excited to score a proper win for this opening on my end, having been humiliated by an inept application of it against myself in the previous round which frustrated me.}
 3. Nf3 Nf6?
@@ -114,6 +117,7 @@ Ke6? 27. Re2+ Kf5?
 [ECO "C42"]
 [Opening "Russian-Three Knights Game"]
 [Variation "Classical, 3.Nf3 d6 4.Nc3 Nf6 5.Bc4"]
+[Board "11"]
 1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. d4?
 {Quite unachieving.  Even if White had already played d2-d4 beforehand to strike at the center, I would have in the case of many other openings besides this one at that stage ignored the pawn move by counterattacking with the ...Bb4 pin.  Playing d2-d4 in response to ...Bb4, on the other hand, is just foolish.  Standard replies to the 1.e4 e5 2.Nf3 Nf6 3.Nc3 Bb4 opening include 4.Nd5 and 4.Nxe5--neither of which I find too appealing.  I would never want to play the passive 3.Nc3 variation of the Russian Game these days...maybe many years ago when I had a naively fundamentalist obsession with the Four Knights Game (1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6).}
 Nxe4 5. Bd2 Nxd2 6. Qxd2?! exd4?
