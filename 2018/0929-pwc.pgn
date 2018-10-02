@@ -1,0 +1,166 @@
+[Event "Solon Kickoff Classic"]
+[Site "Solon, OH USA"]
+[Date "2018.09.29"]
+[Round "1"]
+[White "Orellana, Juan"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1331"]
+[BlackElo "1560"]
+[TimeControl "1800"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "Exchange, 4.Nc3"]
+[Board "12"]
+
+1. e4 e6 2. Nc3 d5 3. exd5
+{An interesting move order in the opening but one which doesn't seem to have any definite purpose.  It's guaranteed that Black will want a ...d5 thrust if the French Defense is played.  Against which, 2.Nc3 does very little structurally, if you were not planning to push d2-d4 yourself as White to block the enemy queen's pawn.  1.e4 e6 2.Nc3 d5 3.d4 is an improvement in priority and information-waiting over 3.exd4, here played, as is 1.e4 e6 2.d4 d5 3.exd5 over 1.e4 e6 2.Nc3 d5 3.exd5.  One can already infer that White would much rather play against the Sicilian than the French.  I can certainly agree with that preference.  Just one more reason to answer 2.Nc3 with 2...d5 and not 2...c5.}
+exd5 4. d4 c6 5. Nf3 Nf6 6. Bd3 Bd6 7. O-O O-O
+{7.Qe2+ Be6 8.Ng5 Qe7 9.Bd2 tries a bit harder for a fighting chance.  That could be claimed as a reason for preferring the 4...Nf6 move order over 4...c6.}
+8. Bg5 Bg4 9. Be2?!
+{Passive and inaccurate.  White has lost tempo (which is important in symmetrical positions where White maintains always having the first move) from playing the bishop to the more influential d3 square but subsequently back to the defensive e2 square.  Even if Black does trade bishop for knight on f3, the bishop's new posting on f3 isn't much prettier than having the queen posted there instead of blocking Qxf3.}
+Nbd7 10. Re1 Qc7!?
+{This was something of a premature attack on my part, though it does develop.  I also thought that with the queen off the back rank, I could choose to play ...Rae8 instead of ...Rfe8, since I usually like to keep the castled rook on f8 where it is in games where it seems possible that I may end up exchanging the bishop pawn in front of it.  This was not such a game, however, especially not if I had played 10...h6 first.  In this case, 11...Rfe8 would have been fine, and I would then retain the option to find some other file to reserve for the remaining rook.  My knight on d7 would be free of the defensive responsibility for f6 and move Nd7-f8-g6 to assist in any real, working attacking chances on the king's side.}
+11. h3 Bh5 12. Ne5?
+{Evidently, the slow nature of the Exchange Variation to the French Defense was not appealing to my opponent.  He needed to speed things up for himself, even if it meant gambitting a pawn away.  It is a good thing that I had just retreated my bishop to h5 instead of f5, because 12.Nh4 would have been a much more ideal move than this one--especially in the case of 11...Bf5.}
+Bxe2 13. Rxe2?! Nxe5 14. dxe5 Bxe5 15. Qd2 Bxc3 16. Qxc3?!
+{Perfectly played between 13.Rxe2?! and just now, where 16.bxc3 Ne4 17.Bf4! Nxd2 18.Bxc7 would have bought White a little bit of time with the counterattack to position his bishop better and try to slow things down.}
+Ne4 17. Qe3 Qe5 18. Bf4 Qxb2 19. Rae1 Nc3 20. Rd2 Rad8!?
+{I'm not generally one to prefer exchanging two rooks for a queen, but in this case it would have led to an easier game for me because White's remaining rooks (after trading the queen for my defensive rooks) would be stuck on the defensive.  Of course, I cannot trade both my rooks without first preparing an escape square for my king with a move like 20...f6, or else it would be checkmate.  With that as an aside, my actual 20...Rad8!? move does threaten 21...d4! 22.Rxd4?? Rxd4 23.Qxd4?? Ne2+, but White has played correctly in preventing this.  My actual rook move also prevented 21.Bd6 but not the next move, 21.Be5!.}
+21. Be5 Rfe8? 22. Qd4??
+{Freeing the queen to move off the file with 22.Rf1 would be a more ideal defense with this.  With the rook out of the line of fire, Black's 22...d4 threat fails after 23.Qg5! f6 24.exf6 =.  This is all because I played 21...Rfe8? instead of 21...Rde8, as I was unaware that I needed to keep one rook on the defensive in the event of that attack.  Fortunately, White never saw to execute it.}
+f6!?
+{A logically healthy move, but 22...c5! would have won the bishop if White wouldn't resign himself to 23.Qd3 d4.}
+23. Re3?? Rxe5?
+{Being under the pressure of time, I was incomplete in my analysis of 23...Qc1+ 24.Kh2 Nb5!, which wins the bishop without concession.  I thought that allowing White to just do exchanges would be the best way of finding an easy-to-win endgame, which came about nevertheless.}
+24. Qxc3 Qxc3 25. Rxc3 Rde8 26. Rb3?! b6 27. Ra3 a6?
+{LOL.  I was helping my opponent fix the notation on his scoresheet at his request (and on his time off the clock), and he eventually made a move and hit the clock as I was finishing up helping him and hastily answered it with 27...a6 instead of 27...R8e7, which was what I was really meaning to play since I was sure he'd try 27.Ra3 (another time-wasting move, honestly).  We were both down to blitz-level time allotments, however, and I wanted to play without thinking and moved the wrong thing forward a square.  Even better anyway than defending against 27.Ra3 with 27...R8e7 would have just been 27...Re2! to cut straight to the point and forget about the pawn.}
+28. Rxa6 Re2 29. Rd3 Rxc2 30. Rxb6 Ree2
+{Again, playing under the pressure of time, I didn't stop to think that 30...Re1+ 31.Kh2 Ree2 would have been better by dislodging White's king from supporting the pawn on f2, instead of playing 30...Ree2 directly.  Regardless, this is a won endgame, and win it by timeout on the clock I did indeed eventually.  There is no obligation to record the game once you're under 5 minutes left, though, so I didn't let that get in the way and stopped writing down the moves past this point (which I'm sure were of worse quality anyway).} 0-1
+
+[Event "Solon Kickoff Classic"]
+[Site "Solon, OH USA"]
+[Date "2018.09.29"]
+[Round "2"]
+[White "Swedlow, RJ"]
+[Black "Khaykin, Jacob"]
+[Result "1-0"]
+[WhiteElo "1560"]
+[BlackElo "1063"]
+[TimeControl "1800"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Bishop's Gambit, Bogoljubow Variation"]
+[Board "12"]
+
+1. e4 e5 2. f4 exf4 3. Bc4
+{I generally do not like to play the normal King's Gambit line 3.Nf3 because of the Fischer Defense, 3...d6, although the traditional 3...g5 has its own indeterminate lines as well.  I would rather play against 3.Bc4 d6 4.d4 Qh4+ (4...g5?! 5.h4) than 3.Nf3 d6.  That being said, while Paul Morphy never played against the present chess theory of 1.e4 e5 2.f4 exf4 3.Nf3 d6, he did play at least one game transposing to that in 1863 against de Riviere beginning with 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.O-O h6 6.c3 d6 7.d4, which transposes to the same opening after 1.e4 e5 2.f4 exf4 3.Nf3 d6 4.Bc4 h6 5.d4 g5 6.c3 Bg7 7.O-O.  I still prefer the position after 3.Bc4 d6 4.d4 Qh4+ 5.Kf1.}
+Nf6 4. Nc3 Nc6?!
+{Inaccurate.  4...Nc6?! has very little effect on the game (apart from maybe getting away with 5...Na5 to delay the game with a likely premature attack on my bishop) and virtually hands me a free extra move to build up more tempo.  Generally, whenever this classical 3...Nf6 variation is played against the 3.Bc4 method of the King's Gambit, players use the knight they already had on f6 as incremental support for the d5 square and should subsequently seek to fight over it further after 4.Nc3 (which tries to reclaim the d5 square) with either 4...c6 or 4...Bb4, to attack White's knight defending d5.  Even gambitting with 4...d5 straight away accomplishes so much more than 4...Nc6 does.}
+5. Nf3
+{Many players seeing 4...Nc6 as such weak opening play as I do might think to punish it with 5.d4!? instead, answering an unachieving move with an achieving one, but 5.d4 Bb4 does hold on to the pawn on f4 for a reasonable amount of time to follow.  Despite White's empty 4...Nc6 response, I believe it is best here to use our extra time patiently with 5.Nf3 (which also stops ...g5 from defending the pawn on f4) before playing d4 to reclaim the pawn.  Of course, if Black answers 5.Nf3 with 5...h6 (to unnecessarily re-justify defending the pawn with ...g5), then that is just yet another submissive and relatively unachieving move that buys White more time to play actively, with or without reclaiming the pawn on f4 in the middlegame phase.}
+Bb4
+{Worth consideration is 5...Na5 6.d3 Bb4 7.O-O Nxc4 8.dxc4 O-O, only because Black wasted time by playing his knight to c6 instead of the bishop's pawn to c6.  This would have been the move to make in order to be consistent with thinking that developing the queen's knight early was onto some kind of strategy.}
+6. O-O d6
+{Also something of a time waster.  6...d6 does not defend against anything because the threat of 6...O-O! 7.e5?! was not justifiable.  The only purpose you could say 6...d6 before castling has is to prepare for 7...Bg4 and 8...Nd4 to pin and gang up on my king's knight in a premature attempt to dislodge my king's knight pawn with gxf3 to weaken my king's security.  Simply castling here was more harmonious.  Had he castled, I wouldn't know how to react (certainly not with 7.d4?).  If I had known the kid would play the first few moves of the game so durably against the KGA, I would have tested him with a different opening, like the normal 1.e4 e5 2.Nf3.}
+7. a3!?
+{The other move I was seriously contemplating was 7.Nd5!, which in retrospect (having already played the game out from here) I think I should have done.  7.a3!? was worth playing, but I needed to analyze both 7...Bxc3 and 7...Ba5 as at least equalizing options--the latter of which retaining the bishop as out-of-range of the Nd5 counterattack.  Even though he played the latter quite decently, I also came to realize that 7...Bxc3 8.bxc3 O-O (8...Nxe4? 9.Bxf7+ Kxf7 10.Qd5+) would leave me with no way to defend my king's pawn on e4 without wasting time away from reclaiming the one on f4, and my castled rook was already developed just fine staying where I left it on f1 and is not something I would have wanted to move to e1.}
+Ba5 8. d3
+{The idea of playing 8.d4?! here with the reasoning that Black has neglected thus far to castle is obvious but mostly unsuccessful:  8.d4 Bxc3 9.bxc3 Nxe4 with White's bishop subject to costing tempo (for example, trying to win the knight with 10.Re1? d5) and Black having two pawns (...d7-d5 or ...f7-f5) to defend the new home for Black's knight and White having no pawns to kick it after pinning with Re1.}
+Bg4 9. Bxf4 Bxc3? 10. bxc3
+{And just like that, Black threw away his edge of being able to play ...Nd4 to gang up on my f3 knight.  I doubt he meant to give up on it; he probably just thought he would double my pawns on c3 and c2 by exchanging with my queen's knight first before subsequently playing ...Nd4 to hit my king's knight as well while it was still pinned by his bishop, forgetting that by doubling my pawns on c2 and c3 first he has prevented himself from playing ...Nd4 now.  Had he just played 9...Nd4, it would have been an equal game for both sides, but I now have the better position than my opponent.}
+O-O 11. h3!? Bh5?! 12. Bg5?!
+{Better was to play 12.g4 straight away to open up a space for my queen's bishop to retreat behind in guard of my king:  12.g4 Bg6 13.Bg5 h6 14.Bh4 and can delay capturing on f6 at the moment of my choosing, without having to worry about Black cutting me off with ...g5 since I'd have beaten him to that first.}
+h6 13. Bxf6 Qxf6 14. g4? Bg6 15. Nd4 Qe5 16. Nxc6??
+{Never play morning chess on an empty growling stomach with only 4.5 hours of sleep.  With 16.Nxc6?? I have just given Black a window for preventing me from winning after 16...Qg3+! 17.Kh1 Qxg3+ 18.Kg1 Qg3+.  This is all because I didn't play g2-g4 sooner (in place of 12.Bg5) but when it was too late upon 14.g4? for the sole purpose of unpinning my king's knight just so it could move to d4 with a discovered attack on the enemy queen--ignoring that it would leave my king open to a perpetual check pattern.  Good thing it ended up working anyway, because my opponent did not answer correctly.}
+bxc6? 17. Qd2 d5 18. exd5 cxd5 19. Bb3 c6?! 20. Qf4? Qxf4?
+{20...Qxc3! should not be underestimated.  While it appears to be a simple-minded queen move to win a dead doubled-up pawn, that doubled-up pawn of mine was going to un-double itself with c3-c4 at some phase in the game regardless.  It still can, since Black decided he'd rather accept a trade of queens, leaving me with decent endgame chances.  I just wanted this game to hurry up and end so I could finally eat something that day.}
+21. Rxf4 Rab8 22. Rf3 c5?
+{By some strange miracle, my opponent forgot that he had already prematurely defended his queen's pawn with the somewhat tempo-losing 19...c6?! and, in having just now moved that pawn again in an attempt to get it to c4 to kick my bishop on f3 further away, has just allowed me to win his queen's pawn for free.  Maybe the guy was getting just as hungry as I was feeling, with nothing but carbonated, distilled flavor water to try to distract me from my hunger.}
+23. Bxd5 Rfe8 24. Raf1 Re7 25. h4 Rbe8??
+{Another miracle--this time one which guarantees I cannot lose.  I was sure that the kid would see I was playing 25.h4 for the purpose of threatening 26.h5, which I will play next to dislodge his bishop fron defending the f7 pawn.  Having an escape square set up for his bishop on h7 already was probably his reason for choosing not to care if I played h5.}
+26. h5 Bh7?? 27. Rxf7! Rxf7?
+{Better was 27...Kh8 28.Rxe7 Rxe7 29.Rf8+ Bg8 30.Rxh8+ Kh7.  The comparison at this point of losing the game in either case is becoming quite abstract.}
+28. Bxf7+ Kh8 29. Bxe8
+{The penalty for bothering to try to save the bishop with 26...Bh7?? without at least first getting his rook out of the way of the bishop fork on f7 with 26...Rd8.  Not that 28...Kh8?? made things any better, for Black could have both avoided cornering his own king into a checkmate target and slightly delayed me from winning his rook with 28...Kf8 29.Bg6+ Ke7 30.Re1+ and takes his rook on the next turn.}
+g5 30. hxg6 Bg8 31. Bf7! Kg7 32. Kg2 a5 33. Kg3 a4 34. Kh4 c4 35. d4?! Kh8?
+36. Kh5 Kg7 37. Bxg8 Kxg8?? 38. Kxh6 Kh8 39. Rf8# 1-0
+
+[Event "Solon Kickoff Classic"]
+[Site "Solon, OH USA"]
+[Date "2018.09.29"]
+[Round "3"]
+[White "Xi, Jason"]
+[Black "Swedlow, RJ"]
+[Result "1-0"]
+[WhiteElo "1417"]
+[BlackElo "1560"]
+[TimeControl "1800"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4 Nf6 4.e5 Nd5"]
+[Board "12"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6
+{The other strong option here is 3...e5 4.Nf3 exd4, although 3...Nf6 4.Nc3 does provoke Black into playing 4...e5 with the same type of game anyway.  In retrospect, I feel that 3...e5 may simply be the easier fight for Black, though I enjoy the hypermodern spirit of 3...Nf6 4.e5 Nd5 anyway as someone who would have begun with the knight against 1.d4 in the absence of the QGA's solidity.}
+4. e5 Nd5 5. Bxc4 c5!?
+{Definitely what I think to be an under-explored avenue of opening theory.  Very few masters in upper-level games have played this variation, but to me it just seems natural.  Another rarely played option here is 5...e6!?, which has the option of playing ...c5 as a deferred strike to the center (for a purpose of which I'm unsure).  Because of the popularity of the more hypermodern 5...Nb6 and 5...Nc6 responses, however, 5...c5 is almost never seen.  I personally think it's an interesting combination of the counterplay strategies of Alekhine's Defense (6.Nf3 Nc6, ...e6) and the French Defense (6.exd5 e6) but opened up with a split line down the queen's file for both sides to compete over.}
+6. Qb3?!
+{A dull attack.  Qb3 is typically played as a simultaneous attack on Black's queen's knight pawn on b7 or as a means of preventing the enemy queen's bishop from leaving c8 in defense of that pawn.  However, in this style of opening play, I had to be ready to play ...e6 anyway and lock my bishop on c8 without concern for entering it into the center, so Qb3 really neither prevents nor attacks anything.  In fact, it encourages Black to play ...e6 to lock that bishop in, which I was already prepared to do on the next move regardless.  White's best response to my own personal 5...c5!? opening idea was probably to try to wait for me to finally play ...e6 to have a diagonal open for Bc1-g5 to attack my queen, dislodge it from the queen's file in defense of my knight (either to ...c7 or perhaps only to ...d5 to get it to waste tempo), and then play Bxd5.  Example:  6.Nf3 e6 (or 6...Nc6 7.dxc5 e6 8.Bg5) 7.O-O Nc6 8.Bg5 followed by dxc5 (or first, if applicable, Bxe7).}
+e6 7. Nf3 Nc6 8. Bg5 Nxd4?
+{8...Qd7 would have let to a small but more harmonious advantage for Black.  In playing 8...Nxd4? I have failed to account for delaying the queen trade with an intermediary check as in the case of 9.Bb5+ Bd7 10.Nxd4 Qxg5 11.Bxd7+ Kxd7 12.Qxb7+, with advantage to White.}
+9. Bxd8?? Nxb3 10. axb3 Kxd8 11. O-O?! Kc7?
+{I have moved my king to the wrong side of the board and started White's options of wreaking havoc on my camp from this point on.  In underestimating the pressure to follow, I have failed to realize that giving up a pawn with 11...Be7! (to defend g5} 12.Rd1 Bd7 (threatening an escape for the knight and thereby forcing Bxd5 now) 13.Bxd5 exd5 14.Rxd5 Kc7, and White has reclaimed the gambit pawn lost to Black from the opening but has a difficult pawn endgame lying in wait.}
+12. Rd1?! Nb4? 13. Nc3?
+{Here, again, I have neglected to protect myself from Nf3-g5 with ...Be7 due to my desire to hold on to a pawn by retreating the knight.  White has failed to play Ng5 repeatedly but, as we soon shall see, will finally get to play that move at a most horrible timing due to my repeated failures to prioritize its prevention.  Had White simply played, here, 13.Ng5, he would have left his disadvantagous state for chances at maintaining an equal game.}
+Bd7!? 14. Ne4? Bc6 15. Nfg5 Bxe4 16. Nxe4 Nc6!? 17. f4 Rd8?
+{I have failed for the final time to prevent Ng5, and the rest of this game is solely my punishment.  For all White's mistakes with his own development, I would have had a strong advantage with good endgame prospects had I just played 17...Be7 or, better still, 16...Be7.  There's no way I could have had this much trouble against the kid if I had just developed naturally and, incidentally, connected my rooks with each other on the back rank before trying to simplify towards the endgame with ...Rd8.  A lesson learned too late.}
+18. Ng5 Rxd1+ 19. Rxd1 Be7 20. Nxf7 Rf8 21. Bxe6 Nd4 22. f5 Nxf5?
+{22...h5! would have kept what few chances for equality I had left.  I was already impatient to reclaim the pawn as it was, for I figured that after the following captures I would have forked two men with my king itself, underestimating the teamwork of the bishop, pawn and rook all combined in blocking my king's access to any of the squares along the queen's file and realizing the perfect storm of losses I was facing.}
+23. Bxf5 Rxf7 24. Be6 Rf4 25. Rd7+ Kc6 26. Rxe7 Re4
+{Never in a tournament have I faced an endgame so hopeless as this.  Having run under 5 minutes of time left on my clock, I was free of the obligation of having to record any further moves from this point and was left with the choice of resigning right now or trying to psych the seemingly under-experienced child out with fast, instantaneous endgame play.  My instincts served me well in setting up accidental stalemate traps for him, and I had the right moves from this point for trying to trick him within half a second of my turn beginning each time, but my rapid while accurate reactions didn't trick him into matching my pace and competing for speed.  He continued to take his time where necessary, avoided all my tricks, and finally checkmated me.  Oh well, at least I did a fair job at worrying him into having to work for it.} 1-0
+
+[Event "Solon Kickoff Classic"]
+[Site "Solon, OH USA"]
+[Date "2018.09.29"]
+[Round "4"]
+[White "Swedlow, RJ"]
+[Black "Geletka, Jacob"]
+[Result "1-0"]
+[WhiteElo "1560"]
+[BlackElo "1207"]
+[TimeControl "1800"]
+[ECO "A50"]
+[Opening "Indian"]
+[Variation "Black Knights' Tango (Mexican Defence-Kevitz-Trajkovich Defence), 3.Nf3"]
+[Board "13"]
+
+1. Nf3 Nf6 2. c4 Nc6?!
+{A nonsense opening deviation which serves only to give my center pawns a knight to kick around for even more tempo once I do play d2-d4.  The usual, better responses to 1.Nf3 Nf6 2.c4 include the symmetrical 2...c5 (against which White would do well to time an anti-Benoni d2-d4 center strike to start opening up center files), 2...e6 (against which White avoids the ...Bb4+ pitfal of the Catalan Opening with 3.g3! d5 4.Bg2 Be7 5.O-O, at the expense of allowing Black to try out ...d5-d4), or 2...g6 (in which 3.Nc3 gives Black the choice of the King's Indian Defense, 3...Bg7, or an English-Defense-derived Neo-Gruenfeld Defense, 3...d5 4.exd5 Nxd5).}
+3. d4 d5?!
+{Another nonsense opening deviation, this time offering me tempo more directly than on the previous move.  Black's best chance at this point was 3...e6, offering White a choice between the preventative 4.a3 d5 5.Nc3 or 4.Nc3 Bb4 5.Qc2--the latter of which being a deviant Nimzo-Indian Defense with extra chances for White.}
+4. cxd5 Qxd5 5. Nc3 Qd8?! 6. e4 e6 7. Bg5 h6 8. Bh4?! Bb4 9. Bb5?
+{In enduring the submissiveness of Black's moves thus far, I was too aggressive here.  Black should have answered 9.Bb5? with 9...g5! 10.Bg3 (10.Nxg5?! hxg5 11.Bxg5 Be7) Nxe4, with equal chances for both sides.  The natural 9.Bd3 was better.}
+Bxc3+?
+{A most unsuccessful attempt at winning my pawn.  There was no provocation for taking my knight, and leaving it pinned was more than sufficient for winning the pawn on e4.}
+10. bxc3 g5 11. Nxg5! hxg5 12. Bxg5
+{My knight sacrifice is a go.  In this position, had Black kept his king's bishop on b4 and not exchanged it for my knight on c3, he could simply free his king's knight of the pin via ...Be7.  Knowing this to no longer be an option was the bulk of why I was able to get away with sacrificing my knight for Black's g- and h-file pawns while renewing the pin on the f6 knight.}
+Rh5??
+{Needless to say, 12...Rg8 was better than this, although I should still have won the knight after 13.h4 followed by 14.e5.  That is still better than blundering away his rook as done here.}
+13. Bxf6 Qxf6 14. Bxc6+! bxc6 15. Qxh5
+{14.Bxc6+! was correctly played.  Had I simply gone straight for winning the rook with 14.Qxh5, Black would play 14...Bd7 in defense of his c6 knight and a suitable queen's side castling structure.  Doubling his pawns on c6 and c7 now before he has a chance to play ...Bd7 was the right call.  It could be said that I took a page from my opponent's book when he played 9...Bxc3+?, except that he had no provocation or necessitation for playing that right away (particularly when ...Nxe4 could first be played to add to the pressure) and that I was not going to be castling on that side of the board anyway.}
+Bb7?!
+{Not an effective post for this bishop, although it's obvious he can still try to undouble his pawns by playing ...c5 to free his bishop's diagonal from b7 down to h1.  I was sure he would have at least considered 15...Ba6, which at least tries to make positive usage of the fact that I destroyed his pawn structure on the queen's side.}
+16. Qe5!? Qxe5 17. dxe5
+{I see an easy pawn promotion race up ahead.  I guess the obvious thing to do would have been just castling with 16.O-O, but then why castle in an endgame position where I want my king in the center of the board to help support my pawns anyway?  Even if I've doubled my pawns in an ugly fashion in trading the queens off, overall the accumulated simplification of the position far outweighs that.}
+O-O-O?
+{Hilarious.  Two of my pawns threaten to promote to queens on Black's king's side, his queen's side castling structure has been sabotaged by me doubling his pawns, and yet the boy still insists on castling his king away from the direction my pawns will promote and into the corner of the board away from the action to the side his doubled pawns are on.  All because beginners default to assuming that castling should always be done, even when so many pieces have been exchanged off the board to the point where no real danger threatens either of the kings' safety.}
+18. Rd1 Rg8 19. Rd3!?
+{It is difficult for me to say whether my move here was the optimal choice, but even if it isn't, the idea in my mind is still clear.  Tempt Black into "winning" my pawn on g2 so that it will be traped there permanently after Rd3-g3 and must therefore exchange with my rook, simplifying to an even cleaner endgame which I feel that much more confident in.  Had he not accepted my pawn offer, that may have been a different story and could have negated the purpose of me playing 19.Rd3, but fortunately for me the guy is greedy.}
+Rxg2 20. Rg3 Rxg3 21. fxg3 c5?
+{Black's final hope was to rush his king over to f8 in time to defend his pawn on f7 and into the corner of the board at which my pawns threaten promotion.  Simply letting his pawn be captured so that he can capture my doubled, unlikely-to-promote pawn on e4 is just foolish.}
+22. Rf1 Bxe4 23. Rxf7 Bd5?
+{Black misses the point for the final time.  If he was going to capture my worthless pawn on e4, he could have at least tried to capitalize on his position by using his e4 bishop on g6 instead, to aid against the fray of my queening pawns.  Attacking my pawn on a2 is the same as attacking a null and unoccupied square in an endgame as critical as this.}
+24. h4! Bxa2? 25. h5 Bb1 26. h6 Kb7 27. h7 Bxh7?! 28. Rxh7 a5?! 29. g4 a4
+30. g5 a3 31. Rh2 Kc6 32. g6 Kb5 33. g7 Kc4?! 34. g8=Q Kxc3 35. Qxe6 c4
+36. Kd1?! Kb3?! 37. Rc2?! a2?! 38. Qxc4+ Ka3 39. Rxa2# 1-0
