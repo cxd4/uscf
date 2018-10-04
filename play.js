@@ -18,7 +18,7 @@ new PgnViewer( {
     pgnFile                        :  PGN_file,
     pieceSet                       :  "merida",
     pieceSize                      :  55,
-    movesFormat                    :  "default",
+    movesFormat                    :  "main_on_own_line",
     pauseBetweenMoves              :  1000,
 
  // pollPGNMilliseconds            :  5000,
