@@ -9,11 +9,11 @@ p, li {
 
 /* The colour of the squares can be changed with the following css: */
 .ct-black-square {
-    background-color:  red;
+    background-color:  gray;
  /* background      :  url("/images/black-sq-image.gif") no-repeat; */
 }
 .ct-white-square {
-    background-color:  yellow;
+    background-color:  silver;
  /* background      :  url("/images/black-sq-image.gif") no-repeat; */
 }
 /*
@@ -23,7 +23,7 @@ p, li {
 
 /* The size and colour of the border can be changed with: */
 .ct-board-border {
-    border          :  10px solid green;
+    border          :  1px solid yellow;
 }
 
 /*
@@ -31,12 +31,12 @@ p, li {
  * For example, to change the colour of the main line moves:
  */
 .ct-board-move-mainline {
-    color           :  blue;
+    color           :  white;
 }
 
 /* To change the colour of variation moves: */
 .ct-board-move-variation {
-    color           :  green;
+    color           :  yellow;
 }
 
 /* Comments/Annotations can be styled using: */
@@ -47,5 +47,5 @@ p, li {
 
 /* The style of the currently highlighted move can be adjusted using: */
 .ct-board-move-current {
-    color           :  yellow;
+    color           :  red;
 }
