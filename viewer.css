@@ -1,10 +1,6 @@
 body {
     background-color:  #000000;
     color           :  #FFFFFF;
-    font-family     :  Courier New, Courier, monospace;
-}
-p, li {
-    white-space     :  pre-wrap;
 }
 
 /* The colour of the squares can be changed with the following css: */
