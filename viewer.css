@@ -28,6 +28,7 @@ body {
  */
 .ct-board-move-mainline {
     color           :  white;
+    font-family     :  Arial, Helvetica, sans-serif;
 }
 
 /* To change the colour of variation moves: */
