@@ -19,7 +19,7 @@ body {
 
 /* The size and colour of the border can be changed with: */
 .ct-board-border {
-    border          :  1px solid yellow;
+    border          :  0px solid yellow;
 }
 
 /*
