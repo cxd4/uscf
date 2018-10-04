@@ -14,12 +14,25 @@
 
 <script type="text/javascript">
 new PgnViewer( {
-    boardName        :  "games",
-    pgnFile          :  "./rjs_uscf.pgn",
-    pieceSet         :  "merida",
-    pieceSize        :  46,
-    movesFormat      :  "default",
-    pauseBetweenMoves:  2000
+    boardName                      :  "games",
+    pgnFile                        :  "./rjs_uscf.pgn",
+    pieceSet                       :  "merida",
+    pieceSize                      :  46,
+    movesFormat                    :  "default",
+    pauseBetweenMoves              :  2000,
+
+ // pgnDiv                         :  "demopgndiv",
+ // pollPGNMilliseconds            :  5000,
+ // gotoEndOnRefresh               :  true,
+    highlightFromTo                :  true,
+    showCoordinates                :  true,
+    autoScrollMoves                :  true,
+ // showBracketsOnVariation        :  false,
+    hideBracketsOnTopLevelVariation:  true,
+    moveAnimationLength            :  0.3,
+    newlineForEachMainMove         :  false,
+ // variationStartString           :  "[",
+ // variationEndString             :  "]",
 } );
 </script>
 
