@@ -120,7 +120,7 @@
 [Round "4"]
 [White "Sabhrarii, Sidaarth"]
 [Black "Swedlow, RJ"]
-[Result "1-0"]
+[Result "0-1"]
 [Board "16"]
 [TimeControl "30:00"]
 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.Nxd4 Qf6 8.O-O Bxc3 9.Nxc3 Qxd4 10.Qb3 Ne5 11.Be2 Qb6 12.Be3 Qxb3 13.axb3 Ne7 14.Bd4 N7c6 15.Bxe5 Nxe5 16.Nd5 Kd8 17.Rac1 Nc6 18.b4 Nd4 19.Rfe1 Nxe2 20.Rxe2 c6 21.Nf4 Re8 22.e5 f6 23.Rce1 fxe5 24.Rxe5 Rxe5 25.Rxe5 d6 26.Rg5 g6 27.h4 Bf5 28.h5 h6 29.Rg3 g5 30.Nh3 Kc7 31.f4 Bxh3 32.gxh3 gxf4 33.Rf3 Rg8+ 34.Kf1 Rg3 35.Rxf4 Rxh3 36.Rf5 d5 37.Kg2 Rh4 38.Kg3 Rh1 39.Rf7+ Kb6 40.Kg4 Rg1+ 41.Kf5 Rf1+ 42.Kg6 Rxf7 43.Kxf7 d4 44.Kg6 d3 45.Kxh6 d2 46.Kg7 d1=Q 47.h6 Qg1+ 48.Kh8 Qh1 {The rest of the move history is lost due to a dying pen while I was recording and also to some confusion about the legality of the game after one of our moves.  He switched to a different move (or was it me that switched for whatever reason...?) but was eventually checkmated in this pawn endgame.} 0-1
@@ -134,7 +134,7 @@
 [Result "0-1"]
 [Board "12"]
 [TimeControl "30:00"]
-1.Nf3 d5 2.c4 c6 3.e3 Nf6 4.Nc3 e6 5.d4 a6 6.Qa4 Nbd7 7.cxd5 exd5 8.Bd3 Be7 9.Qc2 O-O 10.O-O h6 11.e4 dxe4 12.Nxe4 Nxe4 13.Bxe4 Nf6 14.Bd3 Bg4 15.Qd1 Kh8 16.Be3 Nd5 17.h3 Bxf3 18.Qxf3 Nf6 19.Rac1 Qd5 20.Qxd5 Nxd5 21.a3 Rfe8 22.Rfe1 Rad8 23.Bc4 Kg8 24.Rc2 Nxe3 25.fxe3 Bf6 26.Rce2 Re7 27.Kh1 Rde8 28.d5 cxd5 29.Bxd5 Bh4 30.Rf1 Rd8 31.Ba2 Rd3 32.g4 Kh7 33.Rxf7? {At this point, my opponent lets out a sigh of relief, and whispers ecstatically, "You missed Bb1!"  I tried to get her to repeat it multiple times to throw away more time off of her clock, but I have to know that this was a pretty dumb miss and understand her criticism.} Rxf7 34.Bxf7 Bg5 35.Ba2 Rxe3 36.Rxe3 Bxe3 37.Kg2 Bc1 38.Bb1+ Kg8 39.a4 Bxb2 40.Kf3 Kf7 41.Bf5 b5 42.axb5 axb5 43.Ke4 b4 44.Kd3 Bc3 45.Kc4 Kf6 46.Bc2 Kg5 47.Bd3 Kf4 48.Kb3 Kg3 49.Bf1 Kf2 50.Bc4 Kg2 51.h4 Kg3 52.g5 Kxh4 53.gxh6 gxh6 54.Bf7 h5 55.Be6 Kg3 56.Bf5 h4 57.Be4 h3 58.Bb7 h2 59.Kc2 Kf2 60.Bd5 Kg1 61.Bf3 h1=Q 62.Bxh1 Kxh1 63.Kd3 Kg2 64.Kc4 Kf3 65.Kd3 Be1 66.Kc4 Ke3 67.Kb3 Kd3 68.Kb2 Kc4 69.Kc2 b3+ 70.Kb2 Bh4 71.Kb1 Kc3 72.Kc1 Bg5+ 73.Kb1 b2 74.Ka2 Kc2
+1.Nf3 d5 2.c4 c6 3.e3 Nf6 4.Nc3 e6 5.d4 a6 6.Qa4 Nbd7 7.cxd5 exd5 8.Bd3 Be7 9.Qc2 O-O 10.O-O h6 11.e4 dxe4 12.Nxe4 Nxe4 13.Bxe4 Nf6 14.Bd3 Bg4 15.Qd1 Kh8 16.Be3 Nd5 17.h3 Bxf3 18.Qxf3 Nf6 19.Rac1 Qd5 20.Qxd5 Nxd5 21.a3 Rfe8 22.Rfe1 Rad8 23.Bc4 Kg8 24.Rc2 Nxe3 25.fxe3 Bf6 26.Rce2 Re7 27.Kh1 Rde8 28.d5 cxd5 29.Bxd5 Bh4 30.Rf1 Rd8 31.Ba2 Rd3 32.g4 Kh7 33.Rxf7? {At this point, my opponent lets out a sigh of relief, and whispers ecstatically, "You missed Bb1!"  I tried to get her to repeat it multiple times to throw away more time off of her clock, but I have to know that this was a pretty dumb miss and understand her criticism.} Rxf7 34.Bxf7 Bg5 35.Ba2 Rxe3 36.Rxe3 Bxe3 37.Kg2 Bc1 38.Bb1+ Kg8 39.a4 Bxb2 40.Kf3 Kf7 41.Bf5 b5 42.axb5 axb5 43.Ke4 b4 44.Kd3 Bc3 45.Kc4 Kf6 46.Bc2 Kg5 47.Bd3 Kf4 48.Kb3 Kg3 49.Bf1 Kf2 50.Bc4 Kg2 51.h4 Kg3 52.g5 Kxh4 53.gxh6 gxh6 54.Bf7 h5 55.Be6 Kg3 56.Bf5 h4 57.Be4 h3 58.Bb7 h2 59.Kc2 Kf2 60.Bd5 Kg1 61.Bf3 h1=Q 62.Bxh1 Kxh1 63.Kd3 Kg2 64.Kc4 Kf3 65.Kd3 Be1 66.Kc4 Ke3 67.Kb3 Kd3 68.Kb2 Kc4 69.Kc2 b3+ 70.Kb2 Bh4 71.Kb1 Kc3 72.Kc1 Bg5+ 73.Kb1 b2 74.Ka2 Kc2 0-1
 
 [Event "Open"]
 [Site "Richardson, TX USA"]
