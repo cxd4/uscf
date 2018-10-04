@@ -1,0 +1,51 @@
+body {
+    background-color:  #000000;
+    color           :  #FFFFFF;
+    font-family     :  Courier New, Courier, monospace;
+}
+p, li {
+    white-space     :  pre-wrap;
+}
+
+/* The colour of the squares can be changed with the following css: */
+.ct-black-square {
+    background-color:  red;
+ /* background      :  url("/images/black-sq-image.gif") no-repeat; */
+}
+.ct-white-square {
+    background-color:  yellow;
+ /* background      :  url("/images/black-sq-image.gif") no-repeat; */
+}
+/*
+ * Background images could be added to the squares.
+ * Images should be the same pixel width and height as the pieces.
+ */
+
+/* The size and colour of the border can be changed with: */
+.ct-board-border {
+    border          :  10px solid green;
+}
+
+/*
+ * Move list items can also be styled.
+ * For example, to change the colour of the main line moves:
+ */
+.ct-board-move-mainline {
+    color           :  blue;
+}
+
+/* To change the colour of variation moves: */
+.ct-board-move-variation {
+    color           :  green;
+}
+
+/* Comments/Annotations can be styled using: */
+.ct-board-move-comment {
+    color           :  green;
+    font-weight     :  bold;
+}
+
+/* The style of the currently highlighted move can be adjusted using: */
+.ct-board-move-current {
+    color           :  yellow;
+}
