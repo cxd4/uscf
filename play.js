@@ -13,26 +13,26 @@ function JS_main(ML_interface) {
         PGN_file = href.substring(offset + needle.length, limit);
     }
 
-new PgnViewer( {
-    boardName                      :  "games",
-    pgnFile                        :  PGN_file,
-    pieceSet                       :  "merida",
-    pieceSize                      :  55,
-    movesFormat                    :  "main_on_own_line",
-    pauseBetweenMoves              :  1000,
+    new PgnViewer({
+        boardName: "games",
+        pgnFile: PGN_file,
+        pieceSet: "merida",
+        pieceSize: 55,
+        movesFormat: "main_on_own_line",
+        pauseBetweenMoves: 1000,
 
- // pollPGNMilliseconds            :  5000,
- // gotoEndOnRefresh               :  true,
-    highlightFromTo                :  true,
-    showCoordinates                :  true,
-    autoScrollMoves                :  true,
- // showBracketsOnVariation        :  false,
-    hideBracketsOnTopLevelVariation:  true,
-    moveAnimationLength            :  0.3,
-    newlineForEachMainMove         :  false,
- // variationStartString           :  "[",
- // variationEndString             :  "]",
-} );
+     // pollPGNMilliseconds: 5000,
+     // gotoEndOnRefresh: true,
+        highlightFromTo: true,
+        showCoordinates: true,
+        autoScrollMoves: true,
+     // showBracketsOnVariation: false,
+        hideBracketsOnTopLevelVariation: true,
+        moveAnimationLength: 0.3,
+     // variationStartString: "[",
+     // variationEndString: "]",
+        newlineForEachMainMove: false
+    });
     return;
 }
 
