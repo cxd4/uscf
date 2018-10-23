@@ -1,4 +1,4 @@
-[Event "National Chess Day Delayed Blast RBO"]
+﻿[Event "National Chess Day Delayed Blast RBO"]
 [Site "Freeport, IL USA"]
 [Date "2010.10.23"]
 [Round "1"]
@@ -364,3 +364,51 @@ Qxc4+ Ka3 39. Rxa2# 1-0
 [BlackElo "1473"]
 [ECO "A02"]
 1.f4 e5 2.fxe5 d6 3.b3 Nc6 4.e3 Nxe5 5.Nf3 Bg4 6.Be2 Qf6 7.Nc3 Nxf3+ 8.Bxf3 Bxf3 9.Qxf3 c6 10.O-O d5 11.Bb2 Qxf3 12.Rxf3 Nf6 13.Raf1 Bd6 14.h3 O-O 15.d3 Rae8 16.Nd1 Nd7 17.d4 Nf6 18.Nf2 Ne4 19.Nxe4 Rxe4 20.Bc1 f6 21.Bd2 Rfe8 22.Rb1 c5 23.c3 c4 24.bxc4 dxc4 25.Rxb7 R8e7 26.Rxe7 Rxe7 27.Rf2 Rb7 28.Be1 Bg3 29.Re2 Rb1 30.Kf1 Kf7 31.e4 Ke6 32.Re3 Bxe1 33.Rxe1 Rb2 34.Re2 Rb1+ 35.Kf2 Rc1 36.Re3 Rc2+ 37.Re2 Rxc3 38.d5+ Kd6 39.Re3 Rc1 40.Re1 Rxe1 41.Kxe1 f5 42.exf5 Kxd5 43.Kd2 h5 44.Kc3 h4 45.a4 Kc5 46.a5 a6 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.10.20"]
+[Round "1"]
+[White "Swedlow, RJ"]
+[Black "Harper, Brian E"]
+[Result "1-0"]
+[WhiteElo "1554"]
+[BlackElo "1209"]
+[ECO "A40"]
+1.Nf3 Nc6 2.d4 Nf6 3.d5 Nb4 4.a3 Nbxd5 5.e4 Nb6 6.e5 Nfd5 7.c4 Nxc4 8.Bxc4 Nb6 9.Bxf7+ Kxf7 10.Ng5+ Kg8 11.e6 h6 12.Nf7 Qe8 13.Qh5 g6 14.Qxg6+ Bg7 15.Nxh8 Qxg6 16.Nxg6 dxe6 17.Nxe7+ Kf7 18.Nxc8 Rxc8 19.Nc3 Rd8 20.Be3 Nd7 21.Rd1 Ke7 22.Bd4 e5 23.Nd5+ Kd6 24.Bxa7 Kc6 25.Ne7+ Kb5 26.Nf5 Bf8 27.Be3 h5 28.Bh6 Bc5 29.b4 Bb6 30.Rd5+ Kc4 31.Ne7 c6 32.Rd2 Kb3 33.Ke2 Kxa3 34.Rhd1 Rh8 35.Rxd7 Rxh6 36.Rxb7 Bd4 37.Rd3+ Kb2 38.Nf5 Re6 39.Nxd4 exd4+ 40.Kd2 Rf6 41.f3 Rg6 42.g3 Rf6 43.b5 cxb5 44.Rxb5+ Ka2 45.f4 Rg6 46.Rxd4 h4 47.Ra4# 1-0
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.10.20"]
+[Round "2"]
+[White "Liu, Edison"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1723"]
+[BlackElo "1554"]
+[ECO "C42"]
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.Qe2 Qe7 5.Qxe4 d6 6.d4 dxe5 7.Qxe5 Qxe5+ 8.dxe5 Bf5 9.Bd3 Bxd3 10.cxd3 Nc6 11.O-O O-O-O 12.Bf4 Rxd3 13.Nc3 Bb4 14.Rad1 Rhd8 15.Rxd3 Rxd3 16.Rd1 Rxd1+ 17.Nxd1 Bc5 18.Ne3 Bd4 19.b3 Bxe5 20.Bxe5 Nxe5 21.Kf1 Nd3 22.a3 c5 23.Nc4 Kc7 24.Ke2 Nc1+ 25.Ke3 Nxb3 26.Kd3 b5 27.Nb2 c4+ 28.Kc3 Nc5 29.Kb4 Kb6 30.f3 Nd3+ 31.Nxd3 cxd3 32.Kc3 Kc5 33.Kxd3 b4 34.a4 a5 35.g4 g5 36.h3 h6 37.Kd2 Kd4 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.10.20"]
+[Round "3"]
+[White "Swedlow, RJ"]
+[Black "Adury, Abhay Kumar"]
+[Result "1-0"]
+[WhiteElo "1554"]
+[BlackElo "1608"]
+[ECO "E90"]
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 Nbd7 6.h3 O-O 7.e5 dxe5 8.dxe5 Ne8 9.Bg5 c6 10.Qd2 Nc7 11.Rd1 Ne6 12.Bh6 Qc7 13.Bxg7 Kxg7 14.Qe3 b6 15.Bd3 Ndc5 16.Bc2 Ba6 17.b4 Nd7 18.b5 Bb7 19.Be4 Nec5 20.bxc6 Bxc6 21.Nd5 Bxd5 22.Bxd5 Rac8 23.e6 Nxe6 24.Bxe6 fxe6 25.Nd4 Nc5 26.Nxe6+ Nxe6 27.Qxe6 Qxc4 28.Qxe7+ Qf7 29.Qxf7+ Rxf7 30.O-O Rc2 31.a4 Ra2 32.Ra1 Rc2 33.a5 b5 34.a6 Rc6 35.Ra5 Rb6 36.Rb1 Rf5 37.g4 Re5 38.f4 Rc5 39.Rd1 Rc7 40.Rd5 b4 41.Rdb5 b3 42.Rxb6 axb6 43.Rb5 Ra7 44.Rxb6 b2 45.Kf2 b1=Q 46.Rxb1 Rxa6 47.Kg3 Kh6 48.Rb7 Ra3+ 49.Kh4 Rf3 50.g5# 1-0
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.10.20"]
+[Round "4"]
+[White "McKenna, Jonathan"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1576"]
+[BlackElo "1554"]
+[ECO "C01"]
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.c4 Bg4 6.Nc3 Nc6 7.Be3 Bb4 8.Rb1 O-O 9.Be2 dxc4 10.Bxc4 Bxf3 11.gxf3 Nd5 12.Bxd5 Qxd5 13.Kf1 Bxc3 14.bxc3 Qxa2 15.Rxb7 Qa6+ 16.Kg2 Qxb7 17.Rg1 Rfd8 18.Kh1 Ne5 19.Rxg7+ Kxg7 20.Qg1+ Kh8 21.dxe5 Qxf3+ 0-1
