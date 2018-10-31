@@ -19,7 +19,7 @@ function JS_main(ML_interface) {
         pieceSet: "merida",
         pieceSize: 55,
         movesFormat: "main_on_own_line",
-        pauseBetweenMoves: 1000,
+        pauseBetweenMoves: 3000,
 
      // pollPGNMilliseconds: 5000,
      // gotoEndOnRefresh: true,
