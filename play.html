@@ -2,23 +2,41 @@
 <html>
 <head>
 <title>Record of Chess Games Played</title>
-<link type="text/css" rel="stylesheet" href="//chesstempo.com/css/board-min.css">
 <link type="text/css" rel="stylesheet" href="viewer.css">
+<script type="text/javascript" src="/pgn4web/pgn4web.js"></script>
+<script type="text/javascript" src="/pgn4web/fonts/chess-informant-NAG-symbols.js"></script>
 <script type="text/javascript" src="play.js"></script>
 </head>
 
 <body onload="JS_main(document)">
-<!-- support libraries from Yahoo YUI project -->
-<script type="text/javascript" src="//chesstempo.com/js/pgnyui.js">
-</script>
-<script type="text/javascript" src="//chesstempo.com/js/pgnviewer.js">
-</script>
+<table>
 
-<table><tr>
-<td id="games-container"></td>
-<td><div id="games-moves" style="overflow:  auto; height:  640px;"></div></td>
-</tr></table>
+<tr>
+<td id="GameSelector" colspan="2"></td>
+</tr>
 
-<p>The JavaScript interface for reading and playing out PGN files is provided by the Chess Tempo website.  More information is at <a href="https://chesstempo.com/">https://chesstempo.com</a>.</p>
+<tr>
+<td id="GameBoard"></td>
+<td>
+ <div id="GameEvent"></div><br>
+ <div id="GameRound"></div><br>
+ <div id="GameSite"></div><br>
+ <div id="GameDate"></div><br>
+ <div id="GameWhite"></div><br>
+ <div id="GameBlack"></div><br>
+ <div id="GameResult"></div>
+</td>
+</tr>
+
+<tr>
+<td id="GameLastComment"></td>
+<td id="GameLastMove"></td>
+</tr>
+
+<tr>
+<td id="GameText" colspan="2"></td>
+</tr>
+
+</table>
 </body>
 </html>

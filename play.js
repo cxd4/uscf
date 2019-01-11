@@ -12,27 +12,29 @@ function JS_main(ML_interface) {
         limit = href.length; /* To do:  Adjust if '&' occurs. */
         PGN_file = href.substring(offset + needle.length, limit);
     }
+    SetPgnUrl(PGN_file);
 
-    new PgnViewer({
-        boardName: "games",
-        pgnFile: PGN_file,
-        pieceSet: "merida",
-        pieceSize: 55,
-        movesFormat: "main_on_own_line",
-        pauseBetweenMoves: 3000,
+    SetImagePath("../pgn4web/images/alpha/64/");
+    SetImageType("png");
 
-     // pollPGNMilliseconds: 5000,
-     // gotoEndOnRefresh: true,
-        highlightFromTo: true,
-        showCoordinates: true,
-        autoScrollMoves: true,
-     // showBracketsOnVariation: false,
-        hideBracketsOnTopLevelVariation: true,
-        moveAnimationLength: 0.3,
-     // variationStartString: "[",
-     // variationEndString: "]",
-        newlineForEachMainMove: false
-    });
+    SetShortcutKeysEnabled(true);
+    SetAutoplayDelay(2000);
+    SetHighlightOption(true);
+
+    SetCommentsIntoMoveText(false);
+    SetCommentsOnSeparateLines(true);
+
+    SetGameSelectorOptions(
+        "Select a game...",
+        true,
+
+        0, // Event
+        0, // Site
+        1 * 0, // Round
+        20, // White
+        20, // Black
+        7, // Result
+        10 //Date
+    );
     return;
 }
-
