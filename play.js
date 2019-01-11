@@ -1,4 +1,4 @@
-var PGN_file;
+var PGN_file = "404.pgn";
 
 function JS_main(ML_interface) {
     "use strict";
