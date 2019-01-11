@@ -36,17 +36,31 @@ function init_pgn4web(PGN_location) {
     SetCommentsOnSeparateLines(true);
 
     SetGameSelectorOptions(
-        "Select a game...",
-        true,
+        "--Rnd-- ----White Player----  ----Black Player---- -Score-",
+        false,
 
         0, // Event
         0, // Site
-        1 * 0, // Round
+        1 * 5, // Round
         20, // White
         20, // Black
         7, // Result
         10 //Date
     );
     already_init = true;
+    return;
+}
+
+function customFunctionOnPgnGameLoad() {
+    "use strict";
+
+    customPgnHeaderTag("ECO", "myECO");
+    customPgnHeaderTag("Opening", "myOpening");
+    customPgnHeaderTag("Variation", "myVariation");
+
+    customPgnHeaderTag("WhiteElo", "myWhiteElo");
+    customPgnHeaderTag("BlackElo", "myBlackElo");
+
+    customPgnHeaderTag("TimeControl", "myTimeControl");
     return;
 }
