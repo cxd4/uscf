@@ -1,4 +1,5 @@
-var PGN_file = "404.pgn";
+var PGN_file;
+var already_init = false;
 
 function JS_main(ML_interface) {
     "use strict";
@@ -8,11 +9,21 @@ function JS_main(ML_interface) {
     var href = ML_interface.location.href;
 
     offset = href.search(needle);
+    PGN_file = "default.pgn";
     if (offset >= 0) {
         limit = href.length; /* To do:  Adjust if '&' occurs. */
         PGN_file = href.substring(offset + needle.length, limit);
     }
-    SetPgnUrl(PGN_file);
+    init_pgn4web(PGN_file);
+    return (PGN_file);
+}
+
+function init_pgn4web(PGN_location) {
+    "use strict";
+    if (already_init === true) {
+        return;
+    }
+    SetPgnUrl(PGN_location);
 
     SetImagePath("../pgn4web/images/alpha/64/");
     SetImageType("png");
@@ -36,5 +47,6 @@ function JS_main(ML_interface) {
         7, // Result
         10 //Date
     );
+    already_init = true;
     return;
 }

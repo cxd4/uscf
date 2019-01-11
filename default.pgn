@@ -1,11 +1,11 @@
 [Event "404"]
-[Site "Akron, OH USA"]
-[Date "????.04.04"]
+[Site "?"]
+[Date "????.??.??"]
 [Round "-"]
 [White "NN"]
 [Black "NN"]
 [Result "*"]
 
 1. f4 e5 2. g4
-{404:  Game not found!}
+{No PGN file was specified in the URL.}
 *
