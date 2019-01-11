@@ -22,9 +22,9 @@ div, span, table, tr, td {
 
 
 .boardTable {
-    border-style:  double;
+    border-style:  none;
     border-color:  black;
-    border-width:  3px;
+    border-width:  0px;
     width       :  512px;
     height      :  512px;
 }
