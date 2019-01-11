@@ -29,6 +29,14 @@ div, span, table, tr, td {
     height      :  512px;
 }
 
+/* Make the table 512 + 128 = 640 pixels wide. */
+td.game {
+    width:  512px;
+}
+td.data {
+    width:  128px;
+}
+
 .pieceImage {
     width :  64px;
     height:  64px;
