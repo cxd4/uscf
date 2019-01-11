@@ -2,45 +2,103 @@
 <html>
 <head>
 <title>Record of Chess Games Played</title>
-<link type="text/css" rel="stylesheet" href="//chesstempo.com/css/board-min.css">
 <link type="text/css" rel="stylesheet" href="viewer.css">
+<script src="../pgn4web/pgn4web.js" type="text/javascript"></script>
 </head>
 
 <body>
-<!-- support libraries from Yahoo YUI project -->
-<script type="text/javascript" src="//chesstempo.com/js/pgnyui.js">
-</script>
-<script type="text/javascript" src="//chesstempo.com/js/pgnviewer.js">
-</script>
-
 <script type="text/javascript">
-new PgnViewer( {
-    boardName                      :  "games",
-    pgnFile                        :  "./rjs_uscf.pgn",
-    pieceSet                       :  "merida",
-    pieceSize                      :  55,
-    movesFormat                    :  "default",
-    pauseBetweenMoves              :  1000,
+"use strict";
+SetPgnUrl("./rjs_uscf.pgn");
 
- // pollPGNMilliseconds            :  5000,
- // gotoEndOnRefresh               :  true,
-    highlightFromTo                :  true,
-    showCoordinates                :  true,
-    autoScrollMoves                :  true,
- // showBracketsOnVariation        :  false,
-    hideBracketsOnTopLevelVariation:  true,
-    moveAnimationLength            :  0.3,
-    newlineForEachMainMove         :  false,
- // variationStartString           :  "[",
- // variationEndString             :  "]",
-} );
+SetImagePath("../pgn4web/images/alpha/64/");
+SetImageType("png");
+SetHighlightOption(true);
+SetGameSelectorOptions(
+	"Select a game...", // head
+	true, // num
+	32, // chEvent
+	30, // chSite
+	1, // chRound
+	20, // chWhite
+	20, // chBlack
+	7 * 0, // chResult
+	10 //chDate
+);
+SetCommentsIntoMoveText(false);
+SetCommentsOnSeparateLines(false);
+
+SetAutoplayDelay(1000); /* in milliseconds */
+SetAutostartAutoplay(false);
+SetAutoplayNextGame(false);
+/*
+ * If set, move to the next game at the end of the current game during autoplay.
+ */
+
+SetInitialGame(1);
+/*
+ * number of game to be shown at load, from 1 (default)
+ * Values (keep the quotes) of "first", "last", "random" are accepted.
+ * Other string values assumed as PGN search string.
+ */
+
+SetInitialVariation(0);
+/*
+ * number for the variation to be shown at load
+ * 0 (default) for main variation
+ */
+
+SetInitialHalfmove(
+	0,
+	false
+);
+/*
+ * First parameter:  halfmove number to be shown at load
+ * 0 (default) for start position
+ * Values of "start", "end", "random", "comment" (go to first comment or
+ * variation), "variation" (go to the first variation) are also accepted.
+ *
+ * Second parameter, if true (default), applies the setting to every
+ * selected game instead of startup only.
+ */
+
+SetShortcutKeysEnabled(true);
+
+SetLiveBroadcast(
+	1, // refresh delay in minutes (default, 0, being no broadcast)
+	false, // alertFlag (if true, displays debug error messages) (default false)
+	false, // demoFlag (if true, starts broadcast demo mode) (default false)
+	false, // stepFlag (if true, autoplays updates in steps) (default false)
+	false // endlessFlag (if true, keeps polling for new moves even after all games are finished)
+);
 </script>
 
-<table><tr>
-<td id="games-container"></td>
-<td id="games-moves"></td>
-</tr></table>
+<table>
+<tr><td>GameSelector</td><td id="GameSelector"></td></tr>
+<tr><td>GameSearch</td><td id="GameSearch"></td></tr>
+<tr><td>GameLastMove</td><td id="GameLastMove"></td></tr>
+<tr><td>GameLastVariations</td><td id="GameLastVariations"></td></tr>
+<tr><td>GameNextMove</td><td id="GameNextMove"></td></tr>
+<tr><td>GameNextVariations</td><td id="GameNextVariations"></td></tr>
+<tr><td>GameSideToMove</td><td id="GameSideToMove"></td></tr>
+<tr><td>GameLastComment</td><td id="GameLastComment"></td></tr>
+<tr><td>GameBoard</td><td id="GameBoard"></td></tr>
+<tr><td>GameButtons</td><td id="GameButtons"></td></tr>
+<tr><td>GameEvent</td><td id="GameEvent"></td></tr>
+<tr><td>GameRound</td><td id="GameRound"></td></tr>
+<tr><td>GameSite</td><td id="GameSite"></td></tr>
+<tr><td>GameDate</td><td id="GameDate"></td></tr>
+<tr><td>GameWhite</td><td id="GameWhite"></td></tr>
+<tr><td>GameBlack</td><td id="GameBlack"></td></tr>
+<tr><td>GameResult</td><td id="GameResult"></td></tr>
+<tr><td>GameText</td><td id="GameText"></td></tr>
 
-<p>The JavaScript interface for reading and playing out PGN files is provided by the Chess Tempo website.  More information is at <a href="https://chesstempo.com/">https://chesstempo.com</a>.</p>
+<tr><td>GameWhiteClock</td><td id="GameWhiteClock"></td></tr>
+<tr><td>GameBlackClock</td><td id="GameBlackClock"></td></tr>
+<tr><td>GameLiveStatus</td><td id="GameLiveStatus"></td></tr>
+<tr><td>GameLiveLastRefreshed</td><td id="GameLiveLastRefreshed"></td></tr>
+<tr><td>GameLiveLastReceived</td><td id="GameLiveLastReceived"></td></tr>
+<tr><td>GameLiveLastModifiedServer</td><td id="GameLiveLastModifiedServer"></td></tr>
+</table>
 </body>
 </html>

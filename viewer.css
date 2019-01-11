@@ -1,48 +1,139 @@
+@import url("/pgn4web/fonts/pgn4web-font-LiberationSans.css");
+@import url("/pgn4web/fonts/pgn4web-font-ChessSansUsual.css");
+
 body {
-    background-color:  #000000;
-    color           :  #FFFFFF;
+    background-color:  #FFFFFF;
+    color           :  #000000;
+
+    padding         :  1.75em;
+    font-family     :  "pgn4web Liberation Sans", sans-serif;
+}
+div, span, table, tr, td {
+    font-family:
+        "pgn4web Liberation Sans",
+        sans-serif
+    ; /* fixes IE9 body CSS issue */
 }
 
-/* The colour of the squares can be changed with the following css: */
-.ct-black-square {
-    background-color:  gray;
- /* background      :  url("/images/black-sq-image.gif") no-repeat; */
-}
-.ct-white-square {
-    background-color:  silver;
- /* background      :  url("/images/black-sq-image.gif") no-repeat; */
-}
-/*
- * Background images could be added to the squares.
- * Images should be the same pixel width and height as the pieces.
- */
-
-/* The size and colour of the border can be changed with: */
-.ct-board-border {
-    border          :  0px solid yellow;
-}
 
 /*
- * Move list items can also be styled.
- * For example, to change the colour of the main line moves:
+ * Confusing pgn4web interaction and chessboard layout stuff follows.
  */
-.ct-board-move-mainline {
-    color           :  white;
-    font-family     :  Arial, Helvetica, sans-serif;
+
+
+.boardTable {
+    border-style:  double;
+    border-color:  black;
+    border-width:  3px;
+    width       :  512px;
+    height      :  512px;
 }
 
-/* To change the colour of variation moves: */
-.ct-board-move-variation {
-    color           :  yellow;
+.pieceImage {
+    width :  64px;
+    height:  64px;
 }
 
-/* Comments/Annotations can be styled using: */
-.ct-board-move-comment {
-    color           :  green;
-    font-weight     :  bold;
+.whiteSquare,
+.blackSquare,
+.highlightWhiteSquare,
+.highlightBlackSquare {
+    width       :  64px;
+    height      :  64px;
+    border-style:  solid;
+    border-width:  1px;
 }
 
-/* The style of the currently highlighted move can be adjusted using: */
-.ct-board-move-current {
-    color           :  red;
+.whiteSquare,
+.highlightWhiteSquare {
+    border-color :  #EFF4EC;
+    background   :  #EFF4EC;
+}
+
+.blackSquare,
+.highlightBlackSquare {
+    border-color :  #C6CEC3;
+    background   :  #C6CEC3;
+}
+
+.highlightWhiteSquare,
+.highlightBlackSquare {
+    border-style:  inset;
+    border-color:  gray;
+}
+
+.selectControl {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.optionSelectControl {
+}
+
+.buttonControlPlay,
+.buttonControlStop,
+.buttonControl {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.buttonControlSpace {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.searchPgnButton {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.searchPgnExpression {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.move,
+.variation,
+.comment {
+    line-height:  1.4em;
+    font-weight:  normal;
+}
+
+.move,
+.variation,
+.commentMove {
+    font-family:
+        "pgn4web ChessSansUsual",
+        "pgn4web Liberation Sans",
+        sans-serif
+    ;
+}
+
+a.move,
+a.variation,
+.commentMove {
+    white-space:  nowrap;
+}
+
+.move,
+.variation {
+    text-decoration:  none;
+}
+
+a.move:hover, a.variation:hover {
+    text-decoration:  underline;
+}
+
+.move {
+    color:  black;
+}
+
+.comment,
+.variation,
+.label {
+    color:  gray;
+}
+
+a.variation {
+    color:  gray;
+}
+
+.moveOn,
+.variationOn {
+    background:  #DAF4D7;
 }
