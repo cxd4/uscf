@@ -4,15 +4,12 @@
 body {
     background-color:  #000000;
     color           :  #FFFFFF;
-
-    padding         :  1.75em;
-    font-family     :  "pgn4web Liberation Sans", sans-serif;
 }
-div, span, table, tr, td {
+body, div, span, table, tr, td {
     font-family:
         "pgn4web Liberation Sans",
         sans-serif
-    ; /* fixes IE9 body CSS issue */
+    ;
 }
 
 
