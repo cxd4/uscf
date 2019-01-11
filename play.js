@@ -32,7 +32,7 @@ function init_pgn4web(PGN_location) {
     SetAutoplayDelay(2000);
     SetHighlightOption(true);
 
-    SetCommentsIntoMoveText(false);
+    SetCommentsIntoMoveText(true);
     SetCommentsOnSeparateLines(true);
 
     SetGameSelectorOptions(
