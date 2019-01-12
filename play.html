@@ -12,25 +12,21 @@
 <table><tr>
 
 <td class="game">
+
 <div id="GameSelector"></div>
 <div id="GameBoard"></div>
 <div id="GameButtons"></div>
+</td>
 
+<td>
 <div>
-<span id="GameWhite">White</span> (<span id="myWhiteElo">Unrated</span>) vs.
-<span id="GameBlack">Black</span> (<span id="myBlackElo">Unrated</span>),
-<span id="GameResult">*</span>
+<span id="GameWhite">White</span> (<span id="myWhiteElo">Unrated</span>)
+vs.
+<span id="GameBlack">Black</span> (<span id="myBlackElo">Unrated</span>)
 </div>
-
-<div>
-<span id="GameEvent">Casual Game</span>,
-round <span id="GameRound">unknown</span>
-</div>
-
-<div>
-<span id="GameDate">1969.12.31</span> <span id="GameSite">Online</span>
-</div>
-
+<div><span id="GameDate">1969.12.31</span> <span id="GameSite">Online</span></div>
+<div><span id="GameEvent">Casual Game</span>, round <span id="GameRound">unknown</span></div>
+<div>Score result:  <span id="GameResult">*</span></div>
 <br>
 
 <div>
@@ -39,9 +35,11 @@ round <span id="GameRound">unknown</span>
 <span id="myVariation">Unclassified variation</span><br>
 <span id="myTimeControl">Unlimited</span> seconds time control
 </div>
-</td>
+<br>
 
-<td id="GameText">
+<div id="GameLastMove"></div>
+<div id="GameText"></div>
+<div id="GameLastComment"></div>
 </td>
 </tr>
 </table>

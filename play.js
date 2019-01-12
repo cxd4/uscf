@@ -32,16 +32,16 @@ function init_pgn4web(PGN_location) {
     SetAutoplayDelay(2000);
     SetHighlightOption(true);
 
-    SetCommentsIntoMoveText(true);
+    SetCommentsIntoMoveText(false);
     SetCommentsOnSeparateLines(true);
 
     SetGameSelectorOptions(
-        "--Rnd-- ----White Player----  ----Black Player---- -Score-",
+        "     White Player    ||    Black Player    || Score ||   Date",
         false,
 
         0, // Event
         0, // Site
-        1 * 5, // Round
+        0 * 5, // Round
         20, // White
         20, // Black
         7, // Result

@@ -29,9 +29,11 @@ body, div, span, table, tr, td {
 table {
     width:  100%;
 }
+td {
+    vertical-align:  top;
+}
 td.game {
     width:  512px;
-    vertical-align:  top;
 }
 
 .pieceImage {
