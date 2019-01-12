@@ -26,12 +26,12 @@ body, div, span, table, tr, td {
     height      :  512px;
 }
 
-/* Make the table 512 + 256 = 768 pixels wide. */
+table {
+    width:  100%;
+}
 td.game {
     width:  512px;
-}
-td.data {
-    width:  256px;
+    vertical-align:  top;
 }
 
 .pieceImage {

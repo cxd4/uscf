@@ -9,43 +9,41 @@
 </head>
 
 <body>
-<table>
+<table><tr>
 
-<tr>
-<td id="GameSelector" colspan="2"></td>
-</tr>
+<td class="game">
+<div id="GameSelector"></div>
+<div id="GameBoard"></div>
+<div id="GameButtons"></div>
 
-<tr>
-<td class="game" id="GameBoard"></td>
-<td class="data">
-<div id="GameEvent">Casual Game</div><br>
-Round <span id="GameRound">number unknown or inappropriate.</span><br><br>
-<span id="GameSite"></span><br><br>
-Played on <span id="GameDate">1969.12.31</span>.<br><br>
-<span id="GameWhite">White</span> (<span id="myWhiteElo">Unrated</span>)<br>
-vs.<br>
-<span id="GameBlack">Black</span> (<span id="myBlackElo">Unrated</span>)<br>
+<div>
+<span id="GameWhite">White</span> (<span id="myWhiteElo">Unrated</span>) vs.
+<span id="GameBlack">Black</span> (<span id="myBlackElo">Unrated</span>),
+<span id="GameResult">*</span>
+</div>
+
+<div>
+<span id="GameEvent">Casual Game</span>,
+round <span id="GameRound">unknown</span>
+</div>
+
+<div>
+<span id="GameDate">1969.12.31</span> <span id="GameSite">Online</span>
+</div>
+
 <br>
-Score:  <span id="GameResult"></span><br><br>
+
+<div>
 <span id="myECO">A00</span><br>
 <span id="myOpening">Unclassified opening</span>:<br>
 <span id="myVariation">Unclassified variation</span><br>
-<br>
 <span id="myTimeControl">Unlimited</span> seconds time control
+</div>
+</td>
+
+<td id="GameText">
 </td>
 </tr>
-
-<tr><td id="GameButtons" colspan="2"></td></tr>
-
-<tr>
-<td id="GameLastComment"></td>
-<td id="GameLastMove"></td>
-</tr>
-
-<tr>
-<td id="GameText" colspan="2"></td>
-</tr>
-
 </table>
 </body>
 </html>
