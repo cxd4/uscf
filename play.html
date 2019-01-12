@@ -5,7 +5,16 @@
 <link type="text/css" rel="stylesheet" href="viewer.css">
 <script type="text/javascript" src="/pgn4web/pgn4web.js"></script>
 <script type="text/javascript" src="/pgn4web/fonts/chess-informant-NAG-symbols.js"></script>
-<script type="text/javascript" src="play.js" onload="JS_main(document)"></script>
+
+<script>
+// @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2-or-Later
+function main() {
+    "use strict";
+    JS_main(document);
+}
+// @license-end
+</script>
+<script type="text/javascript" src="play.js" onload="main()"></script>
 </head>
 
 <body>
