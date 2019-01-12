@@ -12,6 +12,15 @@ function main() {
     "use strict";
     JS_main(document);
 }
+function customFunctionOnMove() {
+    "use strict";
+    var LastMove = document.getElementById("GameLastMove");
+    if (CurrentPly === StartPly) {
+     // var instructions = "(Right and left arrow keys go forward and back.)";
+     // LastMove.innerHTML = LastMove.innerHTML.replace("1.", instructions);
+        LastMove.innerHTML = "<span class=\"move notranslate\">&nbsp;</span>";
+    }
+}
 // @license-end
 </script>
 <script type="text/javascript" src="play.js" onload="main()"></script>
