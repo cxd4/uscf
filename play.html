@@ -20,6 +20,7 @@ function customFunctionOnMove() {
      // LastMove.innerHTML = LastMove.innerHTML.replace("1.", instructions);
         LastMove.innerHTML = "<span class=\"move notranslate\">&nbsp;</span>";
     }
+    autoScrollToCurrentMove("GameText");
 }
 // @license-end
 </script>
@@ -56,8 +57,7 @@ vs.
 <br>
 
 <div id="GameLastMove"></div>
-<div id="GameText"></div>
-<div id="GameLastComment"></div>
+<div id="GameText" style="overflow-y:scroll; height:372px;"></div>
 </td>
 </tr>
 </table>
