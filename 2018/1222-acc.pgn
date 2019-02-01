@@ -1,0 +1,153 @@
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.12.22"]
+[Round "1"]
+[White "Swedlow, RJ"]
+[Black "Martin, Ronald H Jr."]
+[Result "1-0"]
+[WhiteElo "1662"]
+[BlackElo "1176"]
+[TimeControl "1800"]
+[ECO "C29"]
+[Opening "Vienna Gambit"]
+[Variation "Wade Variation"]
+[Board "12"]
+
+1. e4 e5 2. f4 Nf6
+{This is a rare variation of declining the King's Gambit.  I have studied it many, many years ago but have since forgotten most of my notes on it.  It is much more common (and appropriate) to defer playing ...Nf6 until after restricting White's options for development by first capturing the pawn and accepting the gambit.  Mr. Martin told me after our game that he never had to play against the King's Gambit, so 2...Nf6 was more of an overcautious defense than a tried and true reply.}
+3. Nc3?! Nc6?
+{Black misses his chance to execute a well-known countergambit technique with 3...d5!, which would have given him an open and active game with at least equal chances to mine.  I should actually have prevented that possibility by answering 2...Nf6 with the simple 3.fxe5 Nxe4 4.Nf3 and kept the better center game for myself, but I played 3.Nc3 due to my modified way of playing the King's Gambit since all those years ago when I first studied the variation.}
+4. Nf3?
+{Technically, 4.fxe5 Nxe5 5.d4 would have given me both the offensive and the better center dominance over Black's development, but I was so used to playing games with the variation transposed to the following positions hundreds of times over again in online blitz that I felt more in familiar territory to play the weaker 4.Nf3 here instead.  Either way, if Black was really trying to put up a fight and cut off my options, he wouldn't have left me with such choices to have to burden myself over deciding between, so I was more in the mood to pretend he was playing the right moves and play more familiar openings than win in less familiar ones.}
+d6?! 5. Bb5 Qe7?
+{This kind of passivity in the King's Gambit is the same exact weakness I am used to seeing in games against people who stubbornly and persistently refuse to accept my gambit pawn.  Of course, it can hardly be thought of as a gambit pawn at this point for all of my own side's development, but not capturing my pawn on f4 on each turn is just another turn gradually letting me build up firepower against his pawn on e5 while developing.}
+6. O-O Bd7 7. d4!? exd4 8. Nxd4 O-O-O?
+{Amazingly brave to castle on the side of the board that I'm breaking into, even if not completely.  A more peaceful reply was 8...Nxd4 9.Qxd4 Bxb5 10.Nxb5 Qd7!, and by then I may well have been reduced down to a draw-ish game.  My advantage would have been more persistent had I not played 7.d4!? at the timing I chose, but the center break was nevertheless a sharp idea.}
+9. Nd5?
+{As sure as I was of here playing 9.Bxc6 Bxc6 10.Nxc6 and doubling Black's king safety pawns, I was afraid to do so too soon for fear of not yet having capitalized on this move, Nd5?.  (Doubling Black's pawns on c6 and c7 meant my knight could no longer go to d5.)  This knight move would have been perfect a few turns ago for me to try, but Black has weakened himself so considerably to the point that I should not have obsessed over this manouvre anymore.}
+Nxd5?!
+{Black had a riskier but better move to really throw me into a tricky game:  9...Qxe4!, to which I cannot immediately double his pawns to f6 and g7 with 10.Nxf6? for fear of my own knight on d4 being left undefended.  Doubling those pawns no longer matters anyway since he's now castled to the opposite side of the board from what any sane player would have anticipated.}
+10. exd5 Nxd4 11. Bxd7+ Qxd7 12. Qxd4 Kb8?!
+{A natural-seeming defense.  Black is logically afraid that his king is in danger so moves the king himself to defend the vulnerable side pawn.  Actually, due to my upcoming assault, he may have done better to allow me to play Qxa7 with some other counterplay like ...Bf8-e7-f6, get his own queen active and out of d7 (to free an escape square for his king so that Qa8+ isn't checkmate), and simply learn to accept a game where his king safety is partially compromised.}
+13. Be3 b6 14. a4 Be7 15. a5 Qb5?
+{Things are looking more and more bleak for Ronald #2.  All of this from move 13 was correct defensive play, but the pressure builds up, and it seems as though he's beginning to fall out of perspective with the dire progression towards his king.  15...Qb5? here was overcautious and overfearful, for his queen can't reliably stay in defense of his king.  This is just giving me targets besides only his king to kick around while building up my attack.  He actually had the right idea by playing his bishop on the previous turn, and moving it again to f6 would have given him better odds of a comeback.}
+16. c4 Qb4 17. axb6 cxb6
+{Correctly answered.  Had he taken back with his other pawn instead as in 17...axb6??, the full a-file would become an unavoidable assault vector against his king.  In that case, 18.Qd3 would be the adaptation of choice, followed either by Ra3 or c5!, depending on what Black does next.}
+18. Qxg7 Qxc4? 19. Qxf7 Bf8??
+{Incomprehensible.  Inch by inch, Black has handed over full control of the seventh rank to my queen.  Both my capturing of his pawn on f7 and his own bishop's retreat to f8 were entirely avoidable and had alternatives.  There are now two ways to force checkmate in the next six moves:  either 20.Rxa7 or 20.Qxa7+ Kc8 21.Rfc1.  My personal preference is 20.Rxa7.}
+20. Rxa7 Qc8 21. Ra8+! Kxa8 22. Ra1+ 1-0
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.12.22"]
+[Round "2"]
+[White "Gu, Minghao"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1418"]
+[BlackElo "1662"]
+[TimeControl "1800"]
+[ECO "C42"]
+[Opening "Russian-Three Knights Game"]
+[Variation "1.e4 e5"]
+[Board "13"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. d3 d5 5. exd5 Nxd5 6. Bd2 Nc6 7. Be2 Bg4?
+{I rarely encounter somebody playing this combination of moves as White while looking out for ways to turn around from the defensive, but of all the players I've hit with this line in blitz, at this stage they usually miss 8.Nxe5!, because I played 7...Bg4? out of fear from doubling his pawns right away with a move like 7...Nxc3! in such a manner that my queen's knight couldn't hit on d4 at the opportune time.  Giving that dream up or just castling on the king's side here would have been better, but as usual Black missed the pawn win.}
+8. O-O Bxc3 9. Bxc3 Nxc3 10. bxc3 Qd5? 11. Qd2?
+{Yet again, White misses the pawn win via Nxe5.  I'm not even sure what White was trying to accomplish in the absence of trying to block off my center development in any way, but amidst my head-scratching he could have turned this game into one of reverse-psychology and snuck up a pawn win over me.}
+O-O-O 12. Qg5?! h5 13. Qe3
+{Smart reply.  The boy must have found the insight that he wasn't getting anything done and that I'd just kick his queen on the next move with ...f6.  Had he captured my pawn on g7 with Qxg7, I would hit his queen with either of my rooks, and his pawn on g2 is pinned to his king by my rook.}
+Rde8?! 14. Nd2 Re6?! 15. Bf3 Qa5? 16. c4?
+{Totally inaccurate.  Giving my pieces holes to sit in is worse than letting an isolated, doubled pawn be captured.  White also missed a chance to initialize some interesting counterplay with 16.Be4!, because than my bishop on g4 can't flee to f5 (which is a fatal post for the enemy bishop to use to pin my rook on e4).}
+Nd4 17. Be4??
+{Funny how I was just commenting on what a good move that was for the previous turn, and it isn't any longer.  Perhaps the boy was so bummed that he missed the possibilities that could ensue that he hastily played the move once it was too late, ignoring my own threats.}
+Nxc2 18. Nb3?! Nxe3 19. Nxa5 Nxf1
+{...And now, for the next few moves, White repeatedly misses winning a pawn without loss of time as in Bxb7+, for my b7 pawn is under too much fire.  For some reason he consistently failed to notice this for the rest of the game.}
+20. Rxf1 Be2?? 21. Re1 Bg4??
+{Although we were both running out of time on our clocks for writing down carefully triple-checked moves, these sorts of blunders are worth observing as inner weaknesses.  Obviously my playing 20...Be2?? accomplished nothing at all; I can't think of a single purpose for why I did that.  However, I didn't need to give up so easily and retreat my bishop back to g4 on this move.  My bishop was indirectly defended, safe and sound, where it was on e2 because of the possibility of 21...Rb6!, which arranges the simple back-rank checkmate for if White should try to win a bishop.  This would also have gotten my rook out of the enemy bishop's pin threat (Be4-f5) and added to the defense of my overwhelmed b7 square, all in one simple move.  I missed accomplishing all of those things, short on time as we were or not.}
+22. f3 Reh6? 23. fxg4? hxg4 24. Bf5+?? Kb8 25. h3 gxh3 26. Bxh3 Rg6?
+{Wonders never cease.  It was a close and easily forgotten endgame that went back and forth between both of us winning with less than a minute on our clocks, but I guess I lucked out in that final skirmish at least.} 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.12.22"]
+[Round "3"]
+[White "Swedlow, RJ"]
+[Black "Adury, Abhay Kumar"]
+[Result "0-1"]
+[WhiteElo "1662"]
+[BlackElo "1612"]
+[TimeControl "1800"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Schiller, 4.d4 Nf6"]
+[Board "11"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bf5 6. Bg5?! c6
+{The ironic part to this move is that it transposes to what should have been done in an earlier game, Swedlow vs. Sasson, in this year's Cleveland Open.  Apparently 3...Qd6 is a little more popular than I thought.  In that earlier game, the boy played 5...c6 (which, along with 5...a6, is far more popular in the theory of this opening than 5...Bf5), which (as also in the case of this present game) I answered sub-adequately with 6.Bg5.  His best move then was 6...Bf5, but he locked his bishop in instead by playing 6...Nbd7?!.  The present game right here uses another unorthodox opening variation to transpose to a correct, orthodox continuation from the first attempt.}
+7. Bc4 Nbd7 8. d5?!
+{Much too impatient.  This d4-d5 pawn center break indeed is a typical key in smashing this kind of opening, but there was nothing compelling me into a now-or-never situation whe3re I had to play d5 now instead of wait until later.  8.Qe2 would have been better, and if I had also castled on the queen's side beforehand, that would add to the devastation of a well-timed d5 break.}
+cxd5?!
+{Not as obviously good as the counterattack 8...Nb6!.}
+9. Bxd5?! Nxd5 10. Nxd5 e6 11. Bf4??
+{Part of a sequence I had analyzed in my head moves in advance.  I looked at this continuation too many moves before the actual position and was thus over-excited to play into it, only to find that it is a blunder that ends up throwing away my center knight.  Although, as seen in the pressure to follow, there is some meaningful positional compensation....}
+Qxd5 12. Qxd5 exd5 13. O-O-O Nf6?
+{To my delight, he didn't see 13...Be6!.  I was afraid that by playing 13.O-O-O instead of 13.Nd4, I'd allow him to close his king's file and defend his bishop at the same time by retreating it from f5.  Castling worked well against him in the sense that he allowed me a second chance to hit his bishop in a subsequent move by developing his knight to f6 instead of acknowledging his safety problem.}
+14. Rhe1+ Be7 15. Nd4 Bd7 16. Bd6 Kd8??
+{Don't ask me how, but this is where the kid slips.  He claimed at this moment he needed to fix his notation on his score sheet then manipulatively played a move to put my clock on the run while he fixed his writing mistakes, while telling me to go ahead and move right away while it's still his turn if I wanted.  His failed attempt at reverse-psychology must have caused him to scam himself with this king move, instead of defending himself with the submissive yet essential 16...Ng8!.}
+17. Bxe7+ Kc7 18. Bxf6 gxf6 19. Re7 Rhf8 20. Nf5?!
+{It at first seems as if there was no better option to achieve anything more, but the truth is that 20.Nb5+! was not as hazardous as it first appears.  20.Nb5+ Kd8 21.Re3!, and Black cannot win the knight with 21...Bxb5 because 22.Rxd5+ Bd7 23.Red3 reclaims the piece.}
+Rae8 21. Rxd5?! Rxe7 22. Nxe7 Re8 23. Nf5 Kc6? 24. Ne3??
+{I spent all my time worrying that I'd have to sacrifice either my rook or my knight after coming up to this stage to the point where I saw I could keep both and was prematurely relieved by the passivity of the safe retreat 24.Ne3??.  It's so obvious I should have forked and won a pawn via 24.Rd6+.  He probably missed that for the same reason I did:  He was overconfident in his foresight.}
+Rxe3 25. Rxd7 Re2 26. Rxf7
+{The other possibility here was 26.Rd2 Re1+ 27.Rd1 Re2 28.Rf1.  Although defensive, Black's rook is also forced to retreat, leaving an interesting endgame with a pawn structure advantage for myself.  Of course, 26.Rxf7 is more aggressive and suitable for someone who's feeling a little irritated right now. :)}
+Rxf2 27. h4 f5 28. g4 f4?! 29. g5 f3 30. Rxh7 Rg2?? 31. Kd1??
+{Only one move too soon!  Kd1 has the right idea behind it, but as long as Black doesn't greedily push his pawn again down to f2 straight for promotion to a queen, the pawn remains on f3 and blocks my king from moving again from d1 to e2.  This means it's too soon for my king to jump in.  The one and only guarantee of an easy endgame victory that I just threw away was 31.Rf7! f2 32.Kd1!, and Black's endgame was hopeless.  Playing 31.Kd1 so soon is me cracking under the pressure of a long, overly thought-out move that really in a fresh analysis should have been a no-brainer.}
+Rg1+ 32. Kd2 f2 33. Rh6+ Kd5 34. Rf6 f1=Q 35. Rxf1 Rxf1 36. g6
+{Meaningless to continue this game for any reason other than stubborn contempt.  I felt so tricked by this guy's attitude.  There was far too little time left on our clocks for any further recording of moves to be mandatory here anyway.} 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2018.12.22"]
+[Round "4"]
+[White "Harper, Alicia"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1448"]
+[BlackElo "1662"]
+[TimeControl "1800"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "3.Bc4 Bb4 4.Nf3 O-O"]
+[Board "?"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 O-O 5. O-O c6?!
+{At this stage, it was necessary to just exchange bishop for knight:  5...Bxc3 6.dxc3 d6.  I had to ultimately do the exchange with an unfortunate (for me) delay anyway just to avoid being down a pawn in the following moves.}
+6. Nxe5 Bxc3? 7. bxc3?
+{Close, but she missed a technicality with my move order.  I should have kicked her center knight first before exchanging my bishop off the board.  Technically she should have traded her own bishop and knight for my pawn on f7 and rook on f8 after 7.Nxf7!, and then she would have remained up by the pawn she grabbed prior.}
+Nxe4 8. Re1 d5 9. Bd3?
+{As sure as I was that this was all no threat to me, it turns out that she missed a very tricky move:  9.Ba3!, after which I'm down to choices that all compromise in some way or another.  For example, 9.Ba3 Re8? leaves my pawn on f7 undefended (except of course only by my king), so White sacrifices his rook with 10.Rxe4!, only to reclaim my own rook consequential to 10...dxe4? 11.Bxf7+ (or better still, 11.Nxf7) +/-.}
+f5 10. f3?
+{And now, White falls into a trick of my own before she could play any of hers.  After this many concessions and neglections, my pieces were all quite secure and stable; there was no reason to weaken her own king's side pawn structure to compete with mine.  She also wasn't under any immediate threats by my knight, so there was no need to kick it away so soon.}
+Qb6+ 11. Re3 f4 12. Ba3??
+{Offering me her rook by threatening to capture my own rook and leaving herself open to a discovered check...bad idea.  Very fatal idea.}
+fxe3 13. Kf1?! Nxd2+ 14. Ke2? Re8 15. f4?? Rxe5
+{It just gets easier and easier.  I would have thought she'd anticipate losing her queen to a bishop skewer (like ...Bc8-g4+) due to her poor style of retreating her king.  She seemed pretty astute in the opening moves, though...not too aggressive or impulsive like I am.  It's hard to tell if she just gave in to frustration and/or disappointment, or if she's just that inexperienced with the middlegame bit.  I almost never have a female opponent over the board, so I can't make many psychological conjectures either.}
+16. Ke1 Re8??
+{Wow, I really blew that one.  I spent a lot of time looking at sacrificing my pawn with 16...e2! on this turn and finally played 16...Re8?? instead, totally distracted from the moderately obvious yet frightening counter she's about to hit me with.  I was lucky I had enough resources left to sacrifice to appease her bloodthirsty play, without having to settle for a drawn game by repetition.  (Man I would have been pissed.)}
+17. Bxh7+
+{Scared the shit out of me.  I concluded that she really slowed me down, but I was still winning at this point.  I was right.  However I have to admit that in retrospect, 17.Qh5! (unlike the brilliant yet lesser 17.Bxf7+ that was just played) would have forced a drawn game by perpetual check after 17.Qh5 g6 18.Bxg6! Qc7! 19.Bxh7+ Qxh7 20.Qxe8+, and I would have had an inescapable draw.  Of course, that all depends on how she feels...I heard secondhand after I beat her that she thought she was winning.  That I certainly disagree with.}
+Kh8 18. Qh5 Bg4! 19. Qh4 Qd8!
+{Phew!  All threats of drawing averted.}
+20. Qxg4 Kxh7 21. f5? Nd7 22. Qg6+? Kg8 23. Bb2?
+{All of her moves seem overly desperate.  She was right to go for the king a few moves back when I slipped up, but to continue prying away at my king's side with all three of her past three moves seems kind of clueless.  She's getting nowhere fast, and her last move, 23.Ba3-b2 (presumably to threaten checkmate on g7 once her pawn on c3 is out of the way)...I'm quite certain that c1 was a better square for that bishop than b2.  It's like she's hoping I'm blind or something.  (Well, although chess history speaks for itself there...she could be right.)}
+Qf6??
+{This is an effortless game for me to play in, but in feeling at peace I missed the obvious 23...Qh4+!, which would have threatened at least two or three ways of checkmating her in no time flat.  Still, 23...Qf6 is suitable as well; she knows that with her overly persistent strategy, she can't afford to trade queens and still have any hope of tricking me left.  Honestly I'd just resign if I was her, but she probably knows I'm too much of an asshole to deserve that. :)}
+24. Qg4 Ne5 25. Qb4?? a5??
+{Am I just having problems taking her seriously anymore?  Taking her pawn with 25...Qxf5 would have given me a direct route to f1 (protected by my knight on d2).  She wouldn't have survived checkmate for the next four moves after that.}
+26. Qf4 Nec4 27. Bc1 Qxc3?
+{This is all well and fine, but I keep making imperfect moves due to my overconfidence.  Nothing that would cause me to not win, but here again, 27...Re4! would have ended the game much sooner.  Though she has her queen back on the defensive spot where it belongs, attacking with the rook would have made the whole problem insurmountable.}
+28. Bxd2?? Qxd2+ 29. Kf1 e2+ 30. Kg1 e1=R+?! 31. Rxe1? Rxe1+ 32. Qf1 Qe3+
+{In retrospect, I really like the style of 32...Ne3 better.  It's still checkmate in two moves either way.  I didn't play the wrong move here or anything, but 32...Ne3 is just so much more awesome-looking because it threatens checkmate on g2 (White's queen is pinned to her king by my rook and can't capture on g2) instead of on f1, ignoring her queen entirely during the final mate.  I would have loved to rub that in, just to make myself an even bigger asshole to her I guess.}
+33. Kh1 Rxf1# 0-1
