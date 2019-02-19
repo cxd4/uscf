@@ -1,3 +1,52 @@
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.02.16"]
+[Round "1"]
+[White "Swedlow, RJ"]
+[Black "Lai, Wesley"]
+[Result "1-0"]
+[WhiteElo "1702"]
+[BlackElo "1420"]
+[ECO "D07"]
+1.Nf3 Nc6?! 2.d4 d5 3.c4 Nf6? 4.cxd5 Nxd5 5.e4 Nb6 6.d5 Nb8 7.Bg5?! c6? 8.Nc3 cxd5 9.Bb5+?! Bd7 10.Bxd7+?! N8xd7 11.exd5 f6? 12.Nh4?? g6?? 13.Qc2? Rg8?? 14.Bf4? g5?? 15.Qxh7 Rg7 16.Qh5+ Rf7 17.Nf5? gxf4 18.O-O! Ne5 19.Rad1? Qd7 20.d6!? e6 21.Ne4 Qd8?? 22.d7+!? Nbxd7 23.Ned6+?! Bxd6 24.Rxd6! Qc7?? 25.Ng7+ Ke7 26.Rxe6+ Kf8 27.Qh8# 1-0
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.02.16"]
+[Round "2"]
+[White "Scarberry, Conor"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1597"]
+[BlackElo "1702"]
+[ECO "C42"]
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.Qe2 Qe7 5.Qxe4 d6 6.d4 dxe5 7.dxe5 Nc6 8.Bb5 Bd7 9.O-O?! O-O-O 10.Nc3 Nxe5 11.Bxd7+ Rxd7 12.Be3 Nc6 13.Qa4?! Qb4 14.Qb3?! Nd4? 15.Bxd4! Rxd4? 16.Qxf7 Qxb2?? 17.Nd5! Bd6? 18.Qxg7?? Bxh2+! 19.Kh1 Be5 20.Rab1?? Rh4+ 21.Kg1 Bh2+ 22.Kh1 Qxg7 23.g3 Qd7!? 24.gxh4?! Qh3 25.Rfd1?? Bg1+ 26.Kxg1 Rg8# 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.02.16"]
+[Round "3"]
+[White "Swedlow, RJ"]
+[Black "Shukis, William Thomas"]
+[Result "1-0"]
+[WhiteElo "1702"]
+[BlackElo "1586"]
+[ECO "A04"]
+1.Nf3 b5? 2.e4 Bb7 3.Bxb5 Bxe4 4.Nc3?! Bb7 5.d4 Nf6 6.Bg5 e6 7.d5? Be7? 8.dxe6 fxe6 9.Qe2 O-O 10.O-O-O Nc6 11.Bc4 Qe8 12.Bxf6? Bxf6? 13.Rxd7 Qxd7?? 14.Bxe6+ Qxe6 15.Qxe6+ Kh8 16.Ne4? Rae8 17.Qc4 Na5 18.Qxc7?? Bxe4?? 19.Qxa5 Rb8 20.c3?? Rfc8?? 21.Ne5?? Bg5+ 22.Kd1 Rd8+ 23.Ke1 Bd5?? 24.c4 1-0
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.02.16"]
+[Round "4"]
+[White "Dale, Brett"]
+[Black "Swedlow, RJ"]
+[Result "0-1"]
+[WhiteElo "1687"]
+[BlackElo "1702"]
+[ECO "C00"]
+
+1.e4 e6 2.b3?! d5 3.exd5 exd5 4.Nf3 Nf6 5.Be2 Bd6 6.O-O O-O 7.Bb2 Bg4?! 8.c4 dxc4 9.bxc4 Nc6? 10.d4 Qd7 11.d5? Bxf3 12.gxf3?? Qh3
+
 [Event "30th Annual ACC Championship"]
 [Site "Akron, OH USA"]
 [Date "2019.01.05"]
