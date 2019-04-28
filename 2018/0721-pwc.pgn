@@ -1,0 +1,189 @@
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "1"]
+[White "Swedlow, RJ"]
+[Black "Orellana, Juan"]
+[Result "1-0"]
+[WhiteElo "1486"]
+[BlackElo "1300"]
+[TimeControl "2700"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.Re1 Nf6"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. c3
+{I need to study for a better line than this.  I always preferred the Anti-Sicilian lines (1.e4 c5 2.Nf3 d6 3.Bb5+!?), but since in this case we had exchanged bishops, playing c3 here starts to prepare a pawn structure which makes my remaining bishop the bad-square bishop and the one I exchanged off the good-square one.}
+e5?!
+{Some people seem to think the Sicilian is a good opening.  Worse, they think it is good because it necessarily prevents White from having a pawn center.  All this move does is give me another pawn to provoke when I do succeed in playing d4, which won't even take an instant.  Furthermore, I now no longer have to worry about playing my pawns to d4 and e5 and making my traded-off bishop sorely missed but rather can now focus on open center play in general.}
+8. d4 Be7?! 9. Bg5!? cxd4 10. cxd4 Qg4?! 11. h3 Qh5?! 12. Qb3?! O-O 13. Qxb7?
+{After 11...Qh5?, either 12.Nc3 or 12.d5 was miles better than following up to 13.Qxb7? at this point.  I've played into Black's defenses in a way that suits how he is developing.}
+Nxd4 14. Nxd4
+{A slight improvement:  14.Nbd2!, and White is ready to replace the knight on f3 after playing Nxd4 instead of retreating the bishop from g5.}
+exd4 15. Qxe7? Qxg5 16. Qxd6 Rad8 17. Qa3 Rfe8 18. f3?? d3??
+{Black misses his chance to win big on positional domination with 18...Nd5!, with the impending ...Nf4 ready to lock White's camp down.}
+19. Nc3?? d2?? 20. Re2? Nh5! 21. Rf2 Nf4 22. Kh2 Qh4? 23. Qxa7 Re7??
+{Now 23...Re6 would have been effective at building up tempo via the threat of checkmate, but simply stepping the rook up just to chase my queen away to a newer post of my choosing was far from the best alternative.}
+24. Qe3 Red7??
+{A horribly over-optimistic move.  That rook, once more, was more effective on e6 to threaten moving to g6 than to try to justify a pipe dream of promoting an isolated center pawn well within my camp's control vectors.  Black could have had a draw game easily only after 24...Re6! 25.Rxd2 Rxd2 26.Qxd2 Rg6! 27.Rg1 Rg3 28.Qd7! =.}
+25. Rd1 Rd3? 26. Rfxd2! Rxd2 27. Rxd2 Rxd2?!
+{Indeed, Black's remaining rook was at a loss for options, but trading it off didn't deprive me of the acceleration of my own options either.  This is dangerously close to the territory of an easily won endgame, although as it so happens, I partially screw it up in a few moves.}
+28. Qxd2 h5 29. Nd5 Ne6 30. b4 Qd8 31. e5?! h4? 32. f4?! Kf8?? 33. f5??
+{Black's king was safer on h8 than f8, since pushing my b-file pawn along the way gives me a new checking square to make Black's king dance back away from f8 while gaining tempo.  Unfortunately that is now irrelevant.  Instead of going for the total onslaught after 33.b5!, I carelessly throw away a key piece with this move, 33.f5??.}
+Nc7 34. a4 Qxd5?
+{A tricky choice.  It's only natural Black wouldn't necessarily like the idea of 34...Nxd5!, after which I lacked the force to hit his knight while pinned to his queen.  Still, a pin is a pin.  However, it's a much better endgame for Black than to exchange queens and bring us down to a battle of offensive pawns vs. a defensive knight.}
+35. Qxd5 Nxd5 36. b5 Ke8 37. e6?
+{37.Kg1! puts Black against the ropes.  My idea behind this poorly timed move was to distract his king and knight with a lone center pawn threatening to promote away from the side of the board of my two passed pawns also threatening promotion.  This was more of a unsuccessful scare tactic that didn't need to be executed right away.}
+fxe6 38. fxe6 Kd8 39. a5 Nc3??
+{Far too recklessly pursuant.  Having a knight to make up for a pawn inferiority does not give you the power to use that knight offensively and magically pull off a win.  Even if it was safe for the knight to abandon its defensive post and capture most of my pawns, the odds of him promoting either of his for any winning chances at this point are extremely low.  The knight was nothing more than a bargaining chip.  The rest of this game is easily won.}
+40. b6 Nd5 41. b7 Kc7 42. a6 Ne7 43. g3 hxg3+?
+{Definitely a move that could have been deferred or even not played at all, since it just loses time by provoking my king into the center of the action.}
+44. Kxg3 Kb8 45. Kg4 Ka7 46. Kg5 Kb8 47. h4 Ka7 48. h5 Kb8 49. h6 gxh6+ 50.
+Kxh6 Ka7 51. Kg7 Kb8?
+{If Black had played 51...Nc6!, he could hold on to his knight while allowing only one of my pawns to promote to a queen.  At this point, moving his king back and forth passively for this long between a7 and b8 has merely just enabled me to threaten multiple promotions, cost him his knight, and have at least one queen versus instead no knight at all.}
+52. Kf7 Nc6?!
+{Technically inaccurate because 52...Nf5 (or 52...Nd5) kept multiple options for delaying the queening of my pawn by at least one extra move.}
+53. Ke8??
+{I have no idea why I did this.  This game is months ago for me now, but I guess I was feeling too creative in chasing the enemy knight around with my king instead of just forcing a sacrifice outright by pushing my pawn as usual.}
+Kc7??
+{Actually, Black missed what became his final chance for a draw after my last mistake:  53...Nb4! 54.e7 Nxa6 55.Kd7 Nc7 56.Kc6 Ne8 =.}
+54. e7 Kb8?!
+{Given the probability that he could hold on to his lone knight versus only one of my pawns queening, it would be most sensible to have me queen my pawn by leaving my king only an escape file away from his to unblock my pawn.  Instead, he retreated his king and allowed me to mate one move faster by having mine towards his.}
+55. Kd7 Nxe7 56. Kxe7 Kc7 57. Ke8 Kb8?!
+{At this point, it was better to allow both my pawns to queen and try to trick me into a stalemate.  57...Kb8 just corners his king onto the edge into a trap with all moves forced.}
+58. Kd8 Ka7 59. Kc7 Kxa6 60. b8=R!? Ka7?? 61. Rb6 Ka8 62. Ra6# 1-0
+
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "2"]
+[White "Soni, Arjun"]
+[Black "Swedlow, RJ"]
+[Result "1/2-1/2"]
+[WhiteElo "1227"]
+[BlackElo "1486"]
+[TimeControl "2700"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "6.cxd4 Bb4+ 7.Bd2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2
+{I personally prefer the pawn sacrifice after 7.Nc3!? or the Evans Gambit.  However, given 7.Bd2, Black should be careful not to greedily take the pawn:  7...Nxe4?! 8.Bxb4 Nxb4 9.Bxf7+ Kxf7 10.Qb3+, and Black is no better than he started.}
+Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. Qe2+
+{That's no good!  His queen had other prospective squares than e2, to be sure, just like the inactive bishop I now get to make active while answering a trivial check.}
+Be6 11. Bb5 Nb4 12. Rc1 O-O 13. a3 Re8 14. O-O a6?
+{I missed quite an opportunity here:  14...Bd7!, because that not only opens a discovered attack on the queen but makes her waste a move's tempo should she decide to recapture on b5.  Here I should have deferred ...axb5, after which White's queen recapturing on b5 would be open to a second discovered attack by my bishop in d7 in that case.}
+15. axb4 axb5 16. Qxb5 Nxd4 17. Qxb7?? Ne2+ 18. Kh1 Nxc1 19. Rxc1 Bg4?
+{The bishop was already on an useful square--certainly more useful than this one.  A much more successful attack was 19...c6! 20.Re1 Bd5 21.Rxe8+ Qxe8:  all forced moves by White in order to avoid the loss of his queen.}
+20. Qxc7?? Qxc7??
+{While it did not strike me as obvious enough for me to play it, 20...Rc8! should of course have been played because of 21.Qxc8 Bxc8!.}
+21. Rxc7 Ra1+ 22. Ng1 Ree1??
+{Only one move too soon!  22...h5! 23.h3 Ree1 looked much better for me; I overestimated the permanence of my g4 bishop's defense against a back rank mate by the enemy rook.}
+23. Nf3 g5??
+{The same mistake as last move's, just taken to the next level astoundingly.  Obviously 23...Rec1 to force an exchange of rooks was a much safer win that relied on simplification out of the annoying opposition.}
+24. Nxe1 Rxe1 25. h3? Be6 26. Kh2?
+{White had no idea how potent his passed pawn on b4 was.  He failed twice in a row to force me into a compromise by just beginning with b5.}
+Re4 27. Rb7 Re1? 28. Nf3 Re2 29. Nxg5 Rxf2 30. Nxe6 fxe6 31. Kg3 Rxb2 32.
+b5 e5 33. Kf3 h5? 34. b6??
+{Little did White realized that I've allowed an easy endgame for his two passed pawns after 34.g4!, with his king moving away from f3 to join towards mine.  On the flip side, I failed to respond with ...h5-h4 on the next two moves to prevent that critical win.}
+e4+ 35. Kxe4 Rxg2?? 36. Rb8+??
+{Why not play 36.Rc7!?  That pawn's promotion was all the more inevitable after that.}
+Kg7 37. b7??
+{Wrong!  There would have been space to check my king with a rook sacrifice and get a queen in the process in other combinations; this was a failed move out of habitual instinct.  None of this was as easy as just playing 36.Rc7! and guarding the pawn's promotion that way.  The game is now a draw.}
+Rb2 38. Kf5 Kf7?? 39. Kg5??
+{He caught my mistake upon further review after our game.  This was a missed chance to turn the game back into a win with 39.Rh8!.}
+Rb5+ 40. Kh4 Kg7 41. Kg3 Rb3+ 42. Kf4 Rb4+ 43. Ke5 Rb2 44. Kd6 Rb3 45. Kd7
+Rd3+ 46. Kc6 Rc3+ 47. Kd5 Rb3 48. Ke5 Re3+ 49. Kf4 Rb3 50. h4 Rb4+ 51. Ke3
+Rb3+ 52. Kd4 Rb2 53. Kc3 Rb1 54. Kc2 Rb5 55. Kc3 Rb1 1/2-1/2
+
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "3"]
+[White "Swedlow, RJ"]
+[Black "Young, Andrew"]
+[Result "1/2-1/2"]
+[WhiteElo "1486"]
+[BlackElo "-"]
+[TimeControl "2700"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O g6?!
+{Many people are so used to playing the Sicilian Defense against 3.d4 rather than 3.Bb5+ and under-estimate the merits of the Anti-Sicilian variation.  A move such as 5...g6 just plays into my plans of forcefully taking the center for my own pawns anyway.}
+6. c3 Nf6 7. Re1 Nc6 8. d4 cxd4 9. cxd4 Bg7 10. Nc3 O-O 11. Bg5?!
+{11.h3! before playing Bg5 was a necessary precautioun.  On the next move, Black should have kicked my bishop with 11...h6 12.Bf4, and my bishop is now on another square from which it may be subsequently kicked in the not-too-distant future for more tempo.  e3 would be an ideal retreat square, except I failed to play h2-h3 to stop ...Ng4 from threatening my bishop again.}
+Rfe8?! 12. Qd2 Qc7?!
+{So whose pieces are really on the verge of getting kicked around, now?}
+13. Rac1 Qa5 14. Bxf6?!
+{There was nothing wrong with playing 14.d5!, even though it yielded the results of a pawn structure favorable more if Black had castled on the queen's side than on the king's.  Even so, a spatial plus is a spatial plus, and I was too pessimistic to grab it.}
+Bxf6 15. Nd5? Qxd2 16. Nxd2 Bg5?
+{Good enough to surprise me, but not nearly as good as 16...Nxd4!, after which Black had more surprises had I tried to fork his rooks:  17.Nc7? Rec8! 18.Nxa8?? Rxc1 19.Rxc1 Ne2+ and wins.}
+17. f4 Bh6 18. Nc7 Bxf4 19. Rcd1 Nxd4 20. Nxa8 Rxa8 21. Nf1?! Nc6 22. g3
+Bh6 23. Nd2 Rc8?
+{At this point, the passivity of my knight moves had allowed him to exploit a hole on e5 for his knight.  I was intending to play Nf3 anyway, which he could have prevented instead of playing his rook.}
+24. Nf3 Kg7 25. e5 dxe5 26. Nxe5 Nxe5 27. Rxe5 Kf6 28. Ree1 Rc2 29. Rd7
+Rxb2? 30. Rexe7 Rxa2 31. Rxf7+ Ke6 32. Rde7+ Kd6 33. Rxh7?
+{There was no danger in capturing the pawn on b7--certainly not as compared with the danger of not doing so.  The pawn on h7 was doomed at any point and could have waited.  What's more, there was no need to post a rook on e7 to stop ...Be3+, which proves harmless after Kh1.}
+b5 34. Rb7 Kc6 35. Rhc7+ Kd6 36. Rf7 Kc6 37. Rb8 Be3+ 38. Kh1 Kc5 39. h4
+Ra6 40. Rc8+ Kb4 41. Re7 Bb6 42. Re6 Ra1+ 43. Kg2 Ka3 44. Rxg6?!
+{The most accurate way to win this pawn was 44.Ra8! Ra2+ 25.Kh3 Bg1 26.g4! b4 27.Rxg6, with slightly better chances for White.  At present, however, the game is now quite easily drawn by Black, despite my valiant efforts to correctly sacrifice a piece in the next move.}
+b4 45. Rxb6!? axb6 46. Ra8+ Kb2 47. Rxa1 Kxa1 48. h5 b3 49. h6 b2 50. h7
+b1=Q 51. h8=Q+ Ka2 52. Qa8+ Kb3 53. g4 Qc2+ 54. Kg3 b5 55. Qf3+ Qc3 56. g5
+b4 57. g6 Ka2 58. Qxc3 bxc3 59. g7 c2 60. g8=Q+ Kb1 61. Qb3+ Kc1?? 62. Qc3??
+{Pitiful that under the pressure of time, I missed an easy checkmate sequence after he blundered on his last move:  62.Kf2! Kd1 63.Ke3 and mates in two moves.  Normally I would have had a second chance, except he was creative enough to realize the stalemate trap rather than repeating the same position.}
+Kb1 63. Qd3 Ka1 64. Qf1+ Kb2 65. Qe2 Ka1 66. Qe1+ Kb2 67. Qd2 Kb1 1/2-1/2
+
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "4"]
+[White "Sherwin, Sam Eric"]
+[Black "Swedlow, RJ"]
+[Result "1-0"]
+[WhiteElo "1488"]
+[BlackElo "1486"]
+[TimeControl "2700"]
+[ECO "C24"]
+[Opening "Bishop's Opening"]
+[Variation "Paulsen, 4.Nf3"]
+
+1. e4 e5 2. Bc4
+{I've personally never discovered the appeal behind this opening move.  To each their own.}
+Nf6 3. d3 c6 4. Nf3 d5 5. exd5 cxd5 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8. Bg5?
+{It was too early to go on the offensive like this.  I, as Black, was developing flawlessly from the beginning.  One could argue the posting of my queen's knight to d7 rather than c6 is a minor imperfection, but playing Bg5 certainly does nothing to punish that structure.}
+Qb6 9. b3 e4 10. dxe4 Nxe4?
+{White was ready to castle on the king's side.  I had every reason to recapture with ...dxe4 and chase his king's knight away from its natural post, but for some stupid reason I took with the knight instead.}
+11. Be3 Bb4+ 12. Nfd2?!
+{Why Nfd2 instead of Nbd2?  Was he afraid I was going to prematurely attack his queen's rook with ...Bc3?}
+Qa5?
+{12...Qa6 made a lot more sense than to a5, as he wouldn't have been able to castle anytime soon.}
+13. O-O Nxd2 14. Nxd2 Bc3 15. Re1?
+{Very shallow attempt at reverse-psychology.  There are very few tournament players who would greedily capture the rook on a1 after a move like this.  Since I am forced however to evade his discovered check threat, in doing so I continue to develop by castling, leaving both of his rooks within diagonal range of my bishop on c3.}
+O-O 16. Rb1 d4? 17. Nc4 Qc5 18. Bd2 b5?! 19. Nb2?
+{If he had kept his usual pace of attacking rather than defending up till now with 19.Bxc3, he would have had the positionally better game:  19...dxc3 20.Qxd7 bxc4 21.b4!.}
+Nf6 20. Nd3 Qa3 21. Bxc3 dxc3 22. Ra1 a5 23. Qc1 Qxc1 24. Raxc1 Rfe8 25. a4
+bxa4 26. bxa4 Nd5 27. Rxe8+ Rxe8 28. Rb1 Nb4??
+{Although this move of mine appears to have no direct and immediate flaws, they're definitely there.  I carelessly gave him a passed pawn by offering to exchange knights.}
+29. Nxb4 axb4 30. Kf1! Rb8 31. Ke2 f5?
+{This is a waste of time.  There's no need to make plans for our king's side pawn balances; all the passed pawn action is going on at the opposite side of the board, which White's king is rushing to while mine is just waiting behind pawn pushes like ...f5, this move, to have a diagonal trajectory of movement instead of immediately entering with ...Kf8.}
+32. Kd3 Kf7 33. Rb3?
+{He was going in the right direction; continuing with 33.Kc4 was best.}
+Rd8+ 34. Kc4 Rd2 35. Rxb4?
+{Definitely does not help his chances of regaining his advantage before 33.Rb3?.  Now my pawn on c3 will require him to waste even more time to neutralize, since he moved his rook off the rank of my pawn.  At this point, I should have easily drawn this game, but I didn't.}
+Rxc2 36. Kb3 Rxf2 37. Kxc3 Rxg2 38. Rh4 Kg8?
+{38...h6! was more than adequate.  There was no need to retreat my king away from the center just to prepare ...g5 and chase the rook away to somewhere more productive.}
+39. a5 g5 40. Rh6??
+{There's no good reason to not play 40.Ra4! over a self-cornering move like this.}
+Kg7 41. Rb6 Rxh2 42. a6?? f4??
+{I can't imagine how disoriented I must have been by the day's stress to have somehow managed to miss 42...Ra2!.  That was a definite win for all of my pawns and a loss for his lone pawn.  Thinking about it more, I was probably intent on deferring ...Ra2 until just as the pawn was ready to promote, but White soon realized this could be prevented by his next move, which was correct.}
+43. Kb3 Rh1 44. Rb7+ Kf6??
+{It's a very subtle blunder but still a blunder, because my king is now behind the queening square on f1 if my pawn gets that far.  White can queen first and skewer my king to the newly promoted queen.  I had a draw with 44...Kg6!, which was perfectly fine.}
+45. Kb2??
+{No longer a won endgame, much unlike 45.Ka2!, which keeps open the option of bringing down the b7 rook as a shield for the king from some checks.}
+Re1 46. a7 Re2+ 47. Kb3 Re3+ 48. Kb4 h5??
+{This blunder was a deliberate risk.  Drawing by perpetual check was obviously feasible, but I had two draws already today from games I was winning but ended up drawing.  I did not want my fourth round to be a third draw, so I played this daringly, knowing it was a win-or-lose that almost certainly was me losing.  It's like I would rather resign than draw with the frame of mind I had by the end of this day.}
+49. a8=Q Kf5 50. Qc8+ Ke4 51. Qc6+?! Kf5 52. Rf7+? Kg4 53. Rg7 Rg3?! 54.
+Qh6 h4 55. Rxg5+?! Kf3 56. Qxh4?! Rxg5 57. Qxg5 Ke4 58. Qg2+?! Ke3 59. Qf1
+1-0

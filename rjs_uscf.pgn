@@ -445,6 +445,54 @@ gxh4 39. Ke2 e3 40. Kf1 Kf3 41. Kg1 e2 42. Kh2 e1=R 43. Kh3 Rh1# 0-1
 [ECO "A02"]
 1.f4 e5 2.fxe5 d6 3.b3 Nc6 4.e3 Nxe5 5.Nf3 Bg4 6.Be2 Qf6 7.Nc3 Nxf3+ 8.Bxf3 Bxf3 9.Qxf3 c6 10.O-O d5 11.Bb2 Qxf3 12.Rxf3 Nf6 13.Raf1 Bd6 14.h3 O-O 15.d3 Rae8 16.Nd1 Nd7 17.d4 Nf6 18.Nf2 Ne4 19.Nxe4 Rxe4 20.Bc1 f6 21.Bd2 Rfe8 22.Rb1 c5 23.c3 c4 24.bxc4 dxc4 25.Rxb7 R8e7 26.Rxe7 Rxe7 27.Rf2 Rb7 28.Be1 Bg3 29.Re2 Rb1 30.Kf1 Kf7 31.e4 Ke6 32.Re3 Bxe1 33.Rxe1 Rb2 34.Re2 Rb1+ 35.Kf2 Rc1 36.Re3 Rc2+ 37.Re2 Rxc3 38.d5+ Kd6 39.Re3 Rc1 40.Re1 Rxe1 41.Kxe1 f5 42.exf5 Kxd5 43.Kd2 h5 44.Kc3 h4 45.a4 Kc5 46.a5 a6 0-1
 
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "1"]
+[White "Swedlow, RJ"]
+[Black "Orellana, Juan"]
+[Result "1-0"]
+[WhiteElo "1486"]
+[BlackElo "1300"]
+[ECO "B52"]
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nf6 6.Re1 Nc6 7.c3 e5 8.d4 Be7 9.Bg5 cxd4 10.cxd4 Qg4 11.h3 Qh5 12.Qb3 O-O 13.Qxb7 Nxd4 14.Nxd4 exd4 15.Qxe7 Qxg5 16.Qxd6 Rad8 17.Qa3 Rfe8 18.f3 d3 19.Nc3 d2 20.Re2 Nh5 21.Rf2 Nf4 22.Kh2 Qh4 23.Qxa7 Re7 24.Qe3 Red7 25.Rd1 Rd3 26.Rfxd2 Rxd2 27.Rxd2 Rxd2 28.Qxd2 h5 29.Nd5 Ne6 30.b4 Qd8 31.e5 h4 32.f4 Kf8 33.f5 Nc7 34.a4 Qxd5 35.Qxd5 Nxd5 36.b5 Ke8 37.e6 fxe6 38.fxe6 Kd8 39.a5 Nc3 40.b6 Nd5 41.b7 Kc7 42.a6 Ne7 43.g3 hxg3+ 44.Kxg3 Kb8 45.Kg4 Ka7 46.Kg5 Kb8 47.h4 Ka7 48.h5 Kb8 49.h6 gxh6+ 50.Kxh6 Ka7 51.Kg7 Kb8 52.Kf7 Nc6 53.Ke8 Kc7 54.e7 Kb8 55.Kd7 Nxe7 56.Kxe7 Kc7 57.Ke8 Kb8 58.Kd8 Ka7 59.Kc7 Kxa6 60.b8=R Ka7 61.Rb6 Ka8 62.Ra6# 1-0
+
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "2"]
+[White "Soni, Arjun"]
+[Black "Swedlow, RJ"]
+[Result "1/2-1/2"]
+[WhiteElo "1227"]
+[BlackElo "1486"]
+[ECO "C54"]
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Bd2 Bxd2+ 8.Nbxd2 d5 9.exd5 Nxd5 10.Qe2+ Be6 11.Bb5 Nb4 12.Rc1 O-O 13.a3 Re8 14.O-O a6 15.axb4 axb5 16.Qxb5 Nxd4 17.Qxb7 Ne2+ 18.Kh1 Nxc1 19.Rxc1 Bg4 20.Qxc7 Qxc7 21.Rxc7 Ra1+ 22.Ng1 Ree1 23.Nf3 g5 24.Nxe1 Rxe1 25.h3 Be6 26.Kh2 Re4 27.Rb7 Re1 28.Nf3 Re2 29.Nxg5 Rxf2 30.Nxe6 fxe6 31.Kg3 Rxb2 32.b5 e5 33.Kf3 h5 34.b6 e4+ 35.Kxe4 Rxg2 36.Rb8+ Kg7 37.b7 Rb2 38.Kf5 Kf7 39.Kg5 Rb5+ 40.Kh4 Kg7 41.Kg3 Rb3+ 42.Kf4 Rb4+ 43.Ke5 Rb2 44.Kd6 Rb3 45.Kd7 Rd3+ 46.Kc6 Rc3+ 47.Kd5 Rb3 48.Ke5 Re3+ 49.Kf4 Rb3 50.h4 Rb4+ 51.Ke3 Rb3+ 52.Kd4 Rb2 53.Kc3 Rb1 54.Kc2 Rb5 55.Kc3 Rb1 1/2-1/2
+
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "3"]
+[White "Swedlow, RJ"]
+[Black "Young, Andrew"]
+[Result "1/2-1/2"]
+[WhiteElo "1486"]
+[BlackElo "-"]
+[ECO "B52"]
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O g6 6.c3 Nf6 7.Re1 Nc6 8.d4 cxd4 9.cxd4 Bg7 10.Nc3 O-O 11.Bg5 Rfe8 12.Qd2 Qc7 13.Rac1 Qa5 14.Bxf6 Bxf6 15.Nd5 Qxd2 16.Nxd2 Bg5 17.f4 Bh6 18.Nc7 Bxf4 19.Rcd1 Nxd4 20.Nxa8 Rxa8 21.Nf1 Nc6 22.g3 Bh6 23.Nd2 Rc8 24.Nf3 Kg7 25.e5 dxe5 26.Nxe5 Nxe5 27.Rxe5 Kf6 28.Ree1 Rc2 29.Rd7 Rxb2 30.Rexe7 Rxa2 31.Rxf7+ Ke6 32.Rde7+ Kd6 33.Rxh7 b5 34.Rb7 Kc6 35.Rhc7+ Kd6 36.Rf7 Kc6 37.Rb8 Be3+ 38.Kh1 Kc5 39.h4 Ra6 40.Rc8+ Kb4 41.Re7 Bb6 42.Re6 Ra1+ 43.Kg2 Ka3 44.Rxg6 b4 45.Rxb6 axb6 46.Ra8+ Kb2 47.Rxa1 Kxa1 48.h5 b3 49.h6 b2 50.h7 b1=Q 51.h8=Q+ Ka2 52.Qa8+ Kb3 53.g4 Qc2+ 54.Kg3 b5 55.Qf3+ Qc3 56.g5 b4 57.g6 Ka2 58.Qxc3 bxc3 59.g7 c2 60.g8=Q+ Kb1 61.Qb3+ Kc1 62.Qc3 Kb1 63.Qd3 Ka1 64.Qf1+ Kb2 65.Qe2 Ka1 66.Qe1+ Kb2 67.Qd2 Kb1 1/2-1/2
+
+[Event "Mustard Seed Monster"]
+[Site "Solon, Ohio USA"]
+[Date "2018.07.21"]
+[Round "4"]
+[White "Sherwin, Sam Eric"]
+[Black "Swedlow, RJ"]
+[Result "1-0"]
+[WhiteElo "1488"]
+[BlackElo "1486"]
+[ECO "C24"]
+1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Nf3 d5 5.exd5 cxd5 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.Bg5 Qb6 9.b3 e4 10.dxe4 Nxe4 11.Be3 Bb4+ 12.Nfd2 Qa5 13.O-O Nxd2 14.Nxd2 Bc3 15.Re1 O-O 16.Rb1 d4 17.Nc4 Qc5 18.Bd2 b5 19.Nb2 Nf6 20.Nd3 Qa3 21.Bxc3 dxc3 22.Ra1 a5 23.Qc1 Qxc1 24.Raxc1 Rfe8 25.a4 bxa4 26.bxa4 Nd5 27.Rxe8+ Rxe8 28.Rb1 Nb4 29.Nxb4 axb4 30.Kf1 Rb8 31.Ke2 f5 32.Kd3 Kf7 33.Rb3 Rd8+ 34.Kc4 Rd2 35.Rxb4 Rxc2 36.Kb3 Rxf2 37.Kxc3 Rxg2 38.Rh4 Kg8 39.a5 g5 40.Rh6 Kg7 41.Rb6 Rxh2 42.a6 f4 43.Kb3 Rh1 44.Rb7+ Kf6 45.Kb2 Re1 46.a7 Re2+ 47.Kb3 Re3+ 48.Kb4 h5 49.a8=Q Kf5 50.Qc8+ Ke4 51.Qc6+ Kf5 52.Rf7+ Kg4 53.Rg7 Rg3 54.Qh6 h4 55.Rxg5+ Kf3 56.Qxh4 Rxg5 57.Qxg5 Ke4 58.Qg2+ Ke3 59.Qf1 1-0
+
 [Event "Champ"]
 [Site "Richardson, TX USA"]
 [Date "2012.06.27"]
