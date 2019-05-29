@@ -1,0 +1,151 @@
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.04.27"]
+[Round "1"]
+[White "Swedlow, RJ"]
+[Black "Murthy, Pappu Ln"]
+[Result "1-0"]
+[WhiteElo "1711"]
+[BlackElo "2200"]
+[TimeControl "1800"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "KIA, 2...c5 3.Bg2 Nc6 4.d4"]
+[Board "4"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. d4 Bf5?!
+{Not as mainstream as 4...Nf6 or 4...cxd4, for now with his bishop off of c8 and non-offensively on f5, Black's queen's side is open to queen's side counterplay by White.}
+5. O-O e6 6. c4 Nf6 7. Nc3 Rc8 8. Bg5?!
+{The move order was too passive.  I should have exchanged pawns first with 8.cxd5 exd5 (8...Nxd5 9.Nh4 Bg4 10.h3 +/=) 9.Bg5! +/=.}
+dxc4 9. e4 Bg6?
+{What was wrong with 9...cxd4?  Perhaps he felt that ...Bg6 was all the same since he could kick my bishop back with ...h6 before I could win his knight.}
+10. e5??
+{No!!  Of course his knight would be easily won had I not left mine open to counter and scrambled my queen's pawn out of the zone with 10.d5! exd5? 11.exd5!!, and the win becomes overwhelming.}
+cxd4 11. Ne2 h6 12. Bh4 Bd3 13. exf6 g5 14. Nxg5 hxg5 15. Bxg5 Qa5 16. h4
+Bc5?! 17. Re1?
+{I missed both my chance for an even game with 17.b3! and the fact that he could have (although missed doing so for one turn) chased this rook right back away with ...Bc5-b4.}
+Kf8?? 18. Bh3??
+{My moment to shine was 18.Nf4!, which I was seriously considering except I kept fearing that 18...Bb4 would then have trapped my rook due to me moving this knight and uncovering the a6-f1 diagonal.  The game would have been easily won after 19.Nxd3 cxd3 20.Re4.}
+Bb4 19. Rf1 Rd8?
+{As Black's queen was no longer offensive on a5, it would have made sense to open that square for his bishop to retreat to a5:  19...Qa6! 20.a3 Ba5, and I'd never be able to shake that bishop's grip over e1 off.}
+20. a3 Bd6 21. Re1 e5 22. f4?? e4 23. Nc1? Re8??
+{Little does Black realize that he is setting himself up for a mate net against his king after Qg1-g4!, which I could have timed a move sooner than I did.  My idea of 23.Nc1 would also have been ingenious had it not been for the bishop sacrifice we both missed:  23...Bc2!, and I either lose my rook on e1 or lose tempo to ...d4-d3-d2.  In hindsight of that, my preliminary notion of 23.b4! cxb3 24.Qxb3 was probably the best chance of hope.}
+24. Nxd3? cxd3??
+{Instead of freeing himself with 24...exd3, Black reinforces the mate net against him by keeping his e8 square blocked from his king's breathing space.  Moving Qg4 now would have been more than sufficient, but luckily for me Black was once again unwary.}
+25. b4? Qb5? 26. Qg4
+{Better late than never, but by now I may as well have had the bishop join the fray first with 26.Bd7! Rd8 27.Qg4 Rxd7 28.Rxe4!!.}
+Re6 27. Bh6+ Rxh6 28. Qg7+ Ke8 29. Bxe6 fxe6 30. f7+ Kd8 31. f8=Q+ Bxf8 32.
+Qxf8+ Kc7 33. Qxh6
+{Being under 5 minutes, the rapid play after this included blunders and piece sacrifices to make up for them, but when it came down to nothing but pawns, Black eventually did resign.} 1-0
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.04.27"]
+[Round "2"]
+[White "Steen, Bobby"]
+[Black "Swedlow, RJ"]
+[Result "1-0"]
+[WhiteElo "2172"]
+[BlackElo "1711"]
+[TimeControl "1800"]
+[ECO "C42"]
+[Opening "Russian-Three Knights Game"]
+[Variation "1.e4 e5"]
+[Board "3"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. d3?! d5 5. exd5 Nxd5 6. Bd2 Nc6 7. a3?!
+{It is likely I would have ended up exchanging for his knight on c3 at some point without him having to lose a tempo with a move like a3 to provoke me into doing so.  He may have been better to patiently build up a King's Indian type of game with 7.g3, though he did end up wielding this method after here.}
+Nxc3 8. bxc3 Ba5 9. g3 Qd5?! 10. Bg2 Bg4!? 11. h3 Bh5 12. g4 Bg6 13. O-O
+O-O-O 14. Re1 Qd6 15. Nh2? h5
+{Well-suited for me.  I could not have played ...h5 so confidently had he played 15.Nh4 instead.  While the exchange looks unappealing, it was his only hostage to discourage me.}
+16. g5 f6! 17. c4?
+{White realizes that his pawn on g5 is up for grabs and cracks under the pressure.  Indeed, retaking with Bd2xg5 leaves his own rooks forked by ...Bxc3.  Then again, this pawn move is far less graceful than simply retracting the king's knight back to f3.}
+Bxd2!? 18. Qxd2 Rhe8 19. Qe3? Nd4 20. Ra2 f5 21. Rb1?!
+{Risky.  What could be safer than trying to chase the knight away with 21.Nf3?}
+e4!?
+{Risky on my part, too!  Still successful, just not as much as 21...b6.  White can't stop either ...e4 or ...f4 from happening, so it makes sense to prevent Bxb7+ from becoming a distraction before advancing my pawn storm.}
+22. c3 Nc6 23. d4??
+{Like that one center pawn is going to overwhelm me any more than exchanging it for one of my two king's side pawns before they gang up on him.}
+f4 24. Qc1 f3 25. Bf1 e3 26. Nxf3 Bxb1
+{Certainly to the point of the original tactics but misses the added chaos after 26...Rf8! 27.Bg2 Be4 -/+.}
+27. Qxb1 Qf4?! 28. Bg2 e2?
+{Erroneous judgment.  Letting White take my pawn on e3 was better than getting it stuck on e2, where it almost certainly will not end up progressing further from.  Now would have been a good time to start doubling my rooks down the e file.}
+29. Qe1 Na5?
+{I missed 29...Ne5! 30.Nxe5 Rxe5 31.dxe5 Rd1 -/+.}
+30. Rxe2 Rxe2 31. Qxe2 Qc1+ 32. Kh2 Qxc3 33. Qe6+ Kb8 34. Qe7 Nc6 35. Qxg7
+Nxd4??
+{My biggest miscalculation yet.  This looked like a won endgame for me--a rook versus a bishop and maybe a couple extra pawns.  As he correctly proves in the next few moves, that mere bishop has a powerful blockading capacity that made it inevitable that he should queen his pawn in a timely manner, long before I can overwhelm him with my lone rook.}
+36. Nxd4 Qxd4? 37. Qxd4 Rxd4 38. Bd5! c6 39. g6 cxd5 40. g7 dxc4 41. g8=Q+
+Kc7 42. Qg7+ Rd7 43. Qe5+
+{Despite running under 5 minutes in time, I was already on the verge of resigning before now.  I did so a few moves later.} 1-0
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.04.27"]
+[Round "3"]
+[White "Swedlow, RJ"]
+[Black "Meadows, Joe"]
+[Result "0-1"]
+[WhiteElo "1711"]
+[BlackElo "1810"]
+[TimeControl "1800"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin Variation, 1.e4 e6 2.Qe2"]
+[Board "5"]
+
+1. e4 e6 2. Qe2!?
+{I can't remember the last time anybody played the French Defense against me in a tournament.  It's one of my favorite replies.  Though, the Chigorin Variation, 2.Qe2!?, is perhaps best kept for blitz.  My idea is that if I were to play 2.d3! instead and build up a king's side assault with the King's Indian Attack, I likely would have ended up playing Qe2 sooner or later anyway.  Few people fall for 2...d5?! 3.exd5 Qxd3 4.Nc3.}
+Be7 3. g3 d5 4. d3 c5 5. Bg2 Nf6?!
+{In resistance to the upcoming e4-e5, this move may have been more effective had it been prepared with 5...Nc6 first.}
+6. e5 Nfd7 7. Nf3!? O-O 8. O-O Nc6 9. Re1 f6!? 10. Bf4??
+{And just after playing this gravely mis-calculated move do I realize his bishop can go to f6 and do a skewer.  Having already blundered the bishop in defensive mode, it felt too late not to play into it any further.}
+fxe5 11. Nxe5? Ndxe5 12. Bxe5 Nxe5 13. Qxe5 Bf6 14. Qh5?
+{Of course, there was no reason to expect this aggressive queen move to be successful in a well-thought-out game, but the overly hopeful feeling that it just may end up tricking him was the only thing keeping me from my resignation of this game.  He didn't fall for it.}
+Bxb2 15. c4? Bxa1 16. cxd5? g6 17. Qh6 Bg7 0-1
+
+[Event "Akron Chess Club"]
+[Site "Akron, Ohio USA"]
+[Date "2019.04.27"]
+[Round "4"]
+[White "Prabu, Sneha"]
+[Black "Swedlow, RJ"]
+[Result "1/2-1/2"]
+[WhiteElo "1615"]
+[BlackElo "1711"]
+[TimeControl "1800"]
+[ECO "D24"]
+[Opening "QGA"]
+[Variation "4.Nc3 a6 5.a4"]
+[Board "7"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3
+{There may be some GMs who don't believe me, but I think that any chance White had of a slight advantage in these QGA openings is thrown out with this move.  It creates too many alternatives for Black--my favorite one being ...a6.}
+a6 5. a4 e6?!
+{I'm too used to playing ...Nc6! before playing ...Nf6.  I usually play ...Nf6 when I expect that White will reclaim the gambit pawn or just immediately as a natural developing move.  Still, playing ...e6 was fine as well, since I still think the QGA is a futile effort on White's end even when the pawn is correctly reclaimed.}
+6. e3 c5 7. Bxc4 Nc6 8. d5?! Na5 9. Ba2 exd5 10. Nxd5?! c4?
+{My normal instinct of 10...Be6! would have been optimal here.}
+11. Nxf6+ Qxf6 12. O-O?!
+{She would have had superior activity after 12.Bd2! Qb6 13.O-O Bb4 14.Rc1 Be6 15.Qd4.}
+Bg4 13. Qd5 Bxf3 14. gxf3 Bd6!?
+{A noble effort at sacrificial play, but the simple 14...Bb4 was much more harmonious.}
+15. Qxa5!? Qh4??
+{The game would have been roughly equal even after my piece sacrifice if I had cornered his king to h1 first with 15...Qg6+, before then threatening ...Qh2# with 16...Qh6 17.f4 Qh3.}
+16. f4??
+{White fails to take advantage of the fact that her king had an escape square on f1 after 16.Rd1! 17.Qxh2+ Kf1.  Question the loss of a mere pawn as we might, it can't be worse than throwing Black an easy draw by perpetual check, which this move just did.}
+Qg4+ 17. Kh1 Qf3+ 18. Kg1 h5?? 19. Qg5! Rh6 20. Bb1 Be7 21. Qg2 Qe2 22.
+f3!? Qxg2+ 23. Kxg2 Rd8 24. Bc2 h4?! 25. Rf2?
+{The threat of ...h4+ was reasonably harmless since her king could just move on to g3 and even g4 and still be safe and active.  The option of Kg3 has been taken away by giving me something on f2 to skewer her king to.}
+h3+ 26. Kf1?! Bb4 27. Ke2?!
+{I honestly think her rook looked much better on that square than her king.}
+Rhd6 28. e4 c3?!
+{Since we'll end up exchanging bishops at some point anyway, 28...Bd2 was a much better way to offer to do it.}
+29. bxc3 Bxc3 30. Rb1 Bd4 31. Be3 Rc8 32. Bd3?!
+{While it does have a more hazardous appearance, 32.Bxd4! would have led to another even yet safer exchange of pieces.}
+Rc3 33. Bxd4? Rxd4 34. Rd1
+{Playing 33.Rd1 was better than being forced to play it a move later after exchanging bishops, because now I have too rooks on the offensive.  Meanwhile, what are her rooks attacking?  Undoubtedly she follows the typical generalization that swapping pieces as much as you can is favorable when you have a material advantage.}
+Rxa4 35. Rff1?
+{35.f5 would have made a little headway for a pawn storm while giving her king a little more breathing space just in case.  With moves like this, on the other hand, it appears she is at a bit of a loss for how to take her material supremacy over me to a winning level.}
+Raa3 36. e5?! b5 37. Be4?! b4 38. Rb1?? b3??
+{We were both under 5 minutes at this point and rushed, so I missed an easy draw by 38...Ra2+.  Even so, a few moves after this point she had barely a minute left and even less time than me, so she kindly offered me a draw.  Not eager to score a win on a kind of cute girl in a game I was originally losing, I ultimately did not care who won and who lost so agreed just to make her a happy girl.  The prize money was out of reach for both of us regardless, and keeping my rating high wasn't doing me any favors.}
+1/2-1/2
